@@ -1,7 +1,4 @@
-
-db/flowerDatabase.db
-db/unfinishedFlowers.js
-originalImages
+db/data.db
 
 # Dependency directories
 node_modules/
