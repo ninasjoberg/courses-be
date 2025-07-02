@@ -8,7 +8,23 @@ import Database from "better-sqlite3";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const db = new Database(path.join(__dirname, "../db/data.db"));
+export const db = new Database(path.join(__dirname, "../db/data.db"));
+
+db.exec(`
+  CREATE TABLE IF NOT EXISTS savedSearches (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    query TEXT,
+    createdAt TEXT DEFAULT CURRENT_TIMESTAMP
+  );
+`);
+
+db.exec(`
+  CREATE TABLE IF NOT EXISTS savedCourses (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    courseId TEXT,
+    createdAt TEXT DEFAULT CURRENT_TIMESTAMP
+  );
+`);
 
 db.exec(`
   CREATE TABLE IF NOT EXISTS courses (
