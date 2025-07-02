@@ -1,0 +1,586 @@
+﻿CourseId;InstituteName;CourseName;Category;DeliveryMethod;Location;Language;StartDate
+42A786B5-9650-4DD3-8C9E-79D77D18CD1B;YH Akademin;TRAC Turism- och Resekonsult;Hotell / Event / Turism;Distans med träffar;Helsingborg;NULL;2024-01-08 00:00:00.000
+4A9578FB-4FF9-4018-A2BD-6EAB9CD64A35;Jakobsbergs Folkhögskola;Journalistik! – Radio, Webb, Reportage ;Media / Kommunikation;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+7C80E073-F7EA-4AA0-A87E-6A0E8BB834EA;Jakobsbergs Folkhögskola;Skriv! - Poesi, prosa, dramatik;Estetiska utbildningar;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+4358CDBD-E3E1-43FA-8981-C8CFF0022676;Albins folkhögskola;Allmän kurs;Matematik;Klassrum;Landskrona;NULL;2024-01-11 10:00:00.000
+A1DE7A33-F757-4012-991A-CC9C91FA7DE1;The Academy;Lic. Kostrådgivare;Kostrådgivare;Distans;Distance;NULL;2023-12-15 00:00:00.000
+16B734BB-15A0-45A5-8B9A-DCADF2112CC2;Formakademin i Lidköping;Mönsterdesign & grafiska tekniker ;Hantverk;Klassrum;Lidköping;NULL;2024-08-18 09:00:00.000
+39E6FE31-1105-4B0E-B502-3B81DBF3170E;Geijerskolan, Folkhögskolan i Ransäter;Kyrkomusikerutbildning;Musik / Sång / Musikproduktion;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+47EBA3BC-69D8-40C0-81C0-64C69F68303E;Geijerskolan, Folkhögskolan i Ransäter;Balans och inspiration;Musik / Sång / Musikproduktion;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+CEC18831-1342-47FC-92CD-DB88622FCE94;Katrinebergs Folkhögskola;Filmlinjen ;Film / TV;Klassrum;Vessigebro;NULL;2024-08-19 00:00:00.000
+FD62E17C-96A1-482E-A974-4CA30478D42D;Katrinebergs Folkhögskola;Personlig tränare med hälsofokus ;Hälsa / Friskvård;Klassrum;Vessigebro;NULL;2024-08-19 00:00:00.000
+0F5A0C8F-B147-449D-87B8-D30EA695D42E;Les Mills;BODYCOMBAT® Instruktör;Idrott / Sport;Klassrum;Stockholm;English;2024-01-20 00:00:00.000
+3CCDE2A2-74DC-4B6C-B5D9-1BDB859A1BCE;Les Mills;BODYJAM® Instruktör;Idrott / Sport;Klassrum;Göteborg;English;2024-02-17 00:00:00.000
+47434631-30D6-4249-AAA2-64EF97C92A10;Geijerskolan, Folkhögskolan i Ransäter;Allmän kurs - Litteratur- och skrivarlinje;Bild / Form / Konst;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+D8F1BBE8-76BA-4BDF-9425-492D9DDF05A7;Livscoachakademin Kjell Haglund;"NYHET  ""THE JOURNEY"" DEN INRE SJÄLSRESAN Live på plats i Varberg & Västerås";Hälsa / Friskvård;Klassrum;Varberg;NULL;2024-03-01 00:00:00.000
+EE398962-3AA5-45EA-B5D5-C36E4BB83D08;Bergklint education;Hälsoinformatör - Inriktning mot barn och ungdomar - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+B830EE9E-F7C2-43EF-8E7A-E0DB22B6F73A;Folkuniversitetet Väst ;Diplomerad Redovisningsekonom;Redovisning / Bokföring;Klassrum;Göteborg;Swedish;2024-02-22 00:00:00.000
+45471752-C17D-4C7A-8E69-9B316AD51FA1;Bergklint education;Allergi informatör - distans;Kök / Restaurang;Distans;Distance;Swedish;2024-06-24 00:00:00.000
+36603605-EFB5-42C5-B657-C44733BBE80E;Bergklint education;Hälsoinspiratör - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+9CC6E728-A3D8-4836-9446-837305E5BE95;Medieinstitutet;Webbutvecklare inom e-handel;Data / IT;Klassrum;Stockholm;NULL;2024-08-30 00:00:00.000
+0051C35F-35BE-4814-A510-32C9E0B97A5F;John Ericsson Institutet;Drift- och fastighetstekniker;Teknik;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+FF088662-3145-4A87-B40A-C91D5C77F043;Akademin för SERterapi;Par och relationsterapeut;Psykologi;Klassrum;Helsingborg;NULL;2024-09-23 09:00:00.000
+DCC60070-B2DC-4486-8BD4-01FB5529D767;Akademi Båstad Yrkeshögskola;Kvalificerad trädgårdsanläggare;Trädgårdsmästare;Distans med träffar;Båstad;NULL;2026-01-12 00:00:00.000
+BA91B67B-7E3D-47AC-BE01-07DA9572252C;Stockholm School of Business;Säljare B2B (Account Manager);Ekonomi;Klassrum;Stockholm;NULL;2024-08-30 00:00:00.000
+DB461DAC-60F2-4323-930D-C04CFAAE6DC4;Les Mills;BODYATTACK® Instruktör;Idrott / Sport;Klassrum;Göteborg;English;2024-02-10 00:00:00.000
+6333050F-22AF-4E65-8EB0-08DD00DB5CA1;e-Universitetet;Certifierad hälsocoach;Friskvård / Hälsofrämjande;Distans;Distance;NULL;2023-12-15 00:00:00.000
+5C8BD0B6-2B26-45C1-93F7-BBEA9BC3E452;Sverigehälsan;Kris och krisstöd;Social omsorg;Klassrum;Malmö;NULL;2024-05-20 00:00:00.000
+95F32C5D-53C3-444F-8225-B971447A2383;Sverigehälsan;Kostrådgivare - Diplomerad Kostrådgivare med kognitiv inriktning;Beteendevetenskap;Distans;Distance;NULL;2024-04-22 00:00:00.000
+762284C6-75CE-4423-BBD7-C0EFF6205A1C;Medieinstitutet;Online Video Producer;Entreprenörskap / Företagande;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+F8FF2E75-A565-43DF-85E6-3EC471D1FAC0;Kulturama;Skådespelarutbildning på heltid;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+2D839A15-7BC6-4FAC-AA6B-22B361577973;Hårakademin;Frisörutbildning;Frisör;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+4EE484CB-8916-4285-BAD4-F7DB25AAD51F;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Grundkurs i skogsbruk - skogsskötsel;Jord / Skog / Natur;Distans med träffar;Svenljunga;NULL;2024-04-29 00:00:00.000
+3BF6A619-3DCE-442E-899A-C4E4BAA3B8B9;Sverigehälsan;Familjebehandling med KBT;Social omsorg;Distans;Distance;NULL;2024-03-19 00:00:00.000
+B3033E19-81AB-4E45-8C0D-8EAE75F5FC28;Sensus;Diplomerad Lönespecialist;Ekonomi;Distans;Distance;NULL;2024-03-06 00:00:00.000
+20EBD54A-6BC6-43CD-8BD7-A17BC6E92767;Sensus;Löneadministratörsutbildning;Ekonomi;Distans;Distance;NULL;2024-02-06 09:16:00.000
+5E322D19-16CC-4D28-88C8-8264628E2182;Folkuniversitetet Väst ;Kontakttolk, grundutbildning - Distans;Tolk;Distans med träffar;Göteborg;NULL;2024-08-22 00:00:00.000
+FC972C2B-785E-42E7-9E9A-38CADD6B37A3;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Handelsträdgård;Ekonomi;Distans med träffar;Uddetorp;NULL;2024-03-25 00:00:00.000
+540AAAF0-EF34-4E72-AA38-913E094B948D;Personal Skills;Certifierad Kyl- och Värmepumptekniker (Helsingborg);Energi;Klassrum;Helsingborg;NULL;2024-08-26 09:00:00.000
+59708F91-1CE6-48CC-825E-5657874EC77E;Medborgarskolan Syd;Diplomutbildning: HR-administratör;Personal / Arbetsmiljö / HR;Distans;Distance;NULL;2024-02-05 00:00:00.000
+2C6E349D-7424-48A4-BA91-19193E55A131;Studium;Restaurang- och måltidsbiträde (med eller utan språkstöd);Kök / Restaurang;Klassrum;Göteborg;NULL;2024-04-02 00:00:00.000
+C0808D96-0ECF-4E65-9C7B-C3D51DE3A10D;Sexologiskolan;Parterapeut;Beteendevetenskap;Klassrum;Stockholm;NULL;2024-05-17 00:00:00.000
+4A51F60A-C79B-4927-839B-487629326F5E;Dille Gård;Preparandkurs skogsmästare;Jord / Skog / Natur;Klassrum;Krokom;NULL;2024-08-18 00:00:00.000
+FFAA40EE-C133-4CC1-9AB4-C80703AECF1B;Skandinaviska Institutet för Evidensbaserad Psykologi ;Grundläggande psykoterapiutbildning (KBT Steg-1);Psykologi;Distans med träffar;Distance;Swedish;2024-02-05 09:00:00.000
+71EC9546-9ABF-49E9-80C1-2BFF404335DA;IT-Högskolan;UX-designer;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 08:00:00.000
+1BB1DBD8-A563-466C-8682-A059A87F6CB8;Campus Mölndal;Aktiveringspedagog inom LSS;Pedagogik;Klassrum;Mölndal;NULL;2025-09-08 00:00:00.000
+52B8A7B2-07FD-4EB2-B4C6-4036F622349C;Naprapathögskolan;Introduktionskurs;Förberedande studier;Distans med träffar;Stockholm;NULL;2024-03-23 00:00:00.000
+2680F204-8FE8-47EA-ADD6-FB8C150E33FC;IHM Business School;Account Manager B2B;Marknadsföring;Klassrum;Malmö;NULL;2024-01-22 00:00:00.000
+E4FFD923-C20E-4E7B-B7C4-9BE16D7AD4E4;Geijerskolan, Folkhögskolan i Ransäter;Pianolinje;Musik / Sång / Musikproduktion;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+8C8F4039-C17E-4E14-AE4F-DF1FE55CCB1C;Medieinstitutet;Hållbar medieproduktion;Media / Kommunikation;Distans;Distance;NULL;2023-12-18 00:00:00.000
+A3EC1752-D10C-47D0-82CD-9D38DC643B4B;Scandinavia Barbering Academy;Grundutbildning i Barberaryrket;Barberare;Klassrum;Stockholm;Swedish;2024-02-12 09:00:00.000
+A1F09970-1827-4C39-8696-AB0F70C157B2;Folkuniversitetet Malmö/Lund;Stödpedagog inom funktionshinderområdet;Funktionsnedsättning;Distans;Distance;Swedish;2024-08-26 00:00:00.000
+C917E4D1-3457-4539-8FFF-CD041FA61661;IT-Högskolan;Utvecklare inom AI & Maskininlärning;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+E649D578-C7FA-41E7-BA20-6F2C93B12C91;Biologiska Yrkeshögskolan i Skara (BYS);Skogsföryngringsledare;Jord / Skog / Natur;Distans med träffar;Svenljunga;NULL;2024-01-08 00:00:00.000
+DEE97137-9D9C-4115-AEBA-01030FB5F98D;Sverigehälsan;Parterapi med KBT;Psykologi;Distans;Distance;NULL;2024-05-14 00:00:00.000
+13C08A48-FBF6-4F40-B1B4-5F5AF67923B5;Högskolan i Skövde;Teknisk bastermin;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+C1993F07-E776-43BA-AB38-8D6BF178DF6E;Jakobsbergs Folkhögskola;Konstkurs – teckning, måleri;Estetiska utbildningar;Klassrum;Jakobsberg;NULL;2024-01-08 00:00:00.000
+E223467B-C783-4029-9C3E-BEBA10FB8484;Stockholm School of Business;Payroll Business Partner;Ekonomi;Klassrum;Malmö;NULL;2024-09-01 00:00:00.000
+6C777307-0C17-4A39-AB8E-8D0F341B2A34;IT-Högskolan;IT-säkerhetsspecialist;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+E525111E-C65F-4A50-8F25-02A88E302D55;John Ericsson Institutet;Digital transformationsledare;Data / IT;Distans;Distance;NULL;2024-08-31 00:00:00.000
+4CA4EAF8-08F3-4598-8F7A-817A2F682A24;Nercia Utbildning;Fastighetsvärd;Fastighet / VVS;Klassrum;Västerås;NULL;2024-08-05 00:00:00.000
+68D46610-828D-479A-B373-AA3112780DDB;IHM Yrkeshögskola;Account Manager B2B;Säljare;Klassrum;Malmö;NULL;2024-01-22 00:00:00.000
+D9F9CC02-82BD-4AFD-A41D-0154FA47D25D;IHM Yrkeshögskola;Ekonomi- och redovisnings­konsult;Ekonomi;Klassrum;Stockholm;NULL;2024-01-15 00:00:00.000
+AD530CB1-ACA5-43A1-B4B3-816755A6DB55;Folkuniversitetet Malmö/Lund;Driftledare inom gröna näringar, distans;Miljö / Hållbarhet;Distans;Distance;Swedish;2024-10-01 00:00:00.000
+20C2882E-16FF-4927-B08C-49E5F459B51A;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Hästskötare;Djurskötare / Djurvårdare;Distans med träffar;Axvall;NULL;2024-02-12 00:00:00.000
+D874121A-C881-4347-A680-2FFD4303F845;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Grundkurs trädgård - Lärling;Trädgårdsmästare;Distans med träffar;Uddetorp;NULL;2024-03-11 00:00:00.000
+EBA85C09-D96F-4958-92ED-BBBFDA4966C1;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Ekologisk grönsaksproducent;Hållbar utveckling;Distans med träffar;Töreboda;NULL;2025-01-13 00:00:00.000
+22F7EF0A-DED7-4634-97A3-BBC8578F4812;Företagsuniversitetet;Säkerhetsskyddad upphandling, SUA 15 yh-poäng;Säkerhet / Försvar;Distans;Distance;Swedish;2024-03-11 09:00:00.000
+7EEF99E3-CC7F-40A6-8AE4-C6B3D96B0A7A;Stockholm School of Business;Employer Branding;Genusvetenskap;Distans;Distance;NULL;2024-02-12 00:00:00.000
+24DB0985-187E-4AC4-A8A3-CD23AADD2A7B;Lüning Academy;Funktionsmedicinsk Ört- och Näringsterapeut;Kost / Näringslära;Distans;Distance;NULL;2024-01-08 00:00:00.000
+D85545BB-9030-4D48-9071-A071E357A500;Dille Gård;Förarutbildning Lastbil;Fordon / Transport;Klassrum;Krokom;NULL;2024-08-25 00:00:00.000
+9EBECFD5-6481-44F5-BC06-A272EA31AA5E;Berghs School of Communication;Strategisk kommunikation och PR;Marknadsföring;Klassrum;Stockholm;Swedish;2024-03-05 00:00:00.000
+CB67EF3E-2A9F-498B-A04E-A3D51A9FA7D7;Högskolan i Skövde;Automatiseringstekniker;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+C33A7A3E-C8F2-49B7-9D9D-0BA5906CD000;Högskolan i Skövde;Systembiologi med inriktning mot bioinformatik - masterprogram;Biologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+5D940B68-1D3D-4E35-8209-12BCD274A9E5;Högskolan i Skövde;Dataspelsutveckling - Game Writing;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+6623A24C-3B43-404A-9CC2-67F3D6552D6C;Högskolan i Skövde;Dataspelsutveckling - animation;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+63A6B6D8-A419-4B02-9C48-5917666696B4;Högskolan i Skövde;Designingenjör;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+46A3CA02-5E13-4768-A93C-A21C090B41D3;Högskolan i Skövde;Dataspelsutveckling - programmering;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+BE8F28C4-6477-4BF4-9305-318EB9C0D640;Högskolan i Skövde;Ekonomprogrammet - ekonomi och hållbarhet;Ekonomi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+DB8FA02E-7160-444C-B845-7E03338F9E25;Högskolan i Skövde;Högskoleingenjör - bred ingång;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+8A4F4942-77DE-4000-ADDC-C1BEB1CB7E92;Högskolan i Skövde;Informationsteknologi - Business Intelligence;Ekonomi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+BD4642EB-7D12-40BD-8BB4-5FE426DF0CB1;Högskolan i Skövde;Högskoleingenjör - industriell digitalisering;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+DADA9F40-6071-4B69-B61B-DBAB591C463D;Högskolan i Skövde;Naturvetenskapligt och tekniskt basår;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+047DC251-7E5D-416D-880F-500B9A894B40;Högskolan i Skövde;Produktionsingenjör;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+C69E28C9-834B-445F-9E45-D72551D28222;Högskolan i Skövde;Spelutveckling - masterprogram;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+6F81DBB2-1406-463C-9E5E-431F43A04911;Xplorafory Test;Mjukvarutestare;Kravanalys / Test;Distans;Distance;Swedish;2024-03-11 16:00:00.000
+206ACF28-306D-49D3-B795-B8631E27107B;EBT Academy;PT-utbildning & Kostrådgivare Distans;Kostrådgivare;Distans;Distance;NULL;2024-08-27 00:00:00.000
+89BE7939-7D8D-45C1-A4B8-435E518BAE77;Geijerskolan, Folkhögskolan i Ransäter;Förberedande kyrkomusikerutbildning;Sång;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+D1A242DD-8560-4E4E-9FC6-0F2B1939A419;EBT Academy;PT-Utbildning Stockholm med dubbla licenser;Kostrådgivare;Klassrum;Stockholm;NULL;2024-01-30 00:00:00.000
+A896057C-0D5C-40F5-80ED-6D890BDE581E;YrkesAkademin Vux;Målare;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+EC54B089-81B4-41E1-BDFD-5D20AF0B101F;Nässjöakademin;Trä, möbel och inredning;Hantverk;Klassrum;Nässjö;Swedish;2024-01-15 09:00:00.000
+8DC27E7C-E260-4782-8435-D44E8D08EFE9;Studium;Mekaniker yrkesfordon med språkstöd;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+C5FB940D-86A2-41FE-A557-9380B73F79B0;YH Akademin;Miljöutredare – Förorenade områden;Teknik;Distans med träffar;Nynäshamn;NULL;2024-01-08 00:00:00.000
+357982DB-5DAD-4CAB-9C38-68AF29BF85B6;Frisörcentrum;Frisörutbildning komvux, deltid;Frisör;Klassrum;Falun;Swedish;2024-08-19 00:00:00.000
+26846AF6-BAB4-4CAA-802A-87078CBA2BE4;Semilac Akademi - T&T Nail Art;Nagelterapeut & Geléspecialist - Göteborg;Manikyr / Naglar;Klassrum;Göteborg;Swedish;2024-02-20 00:00:00.000
+9BFA9581-4C1A-4778-9CE1-FD25CE4D8A5C;Hushållningssällskapet Kalmar Kronoberg Blekinge;YH - Småskalig livsmedelsproduktion;Ekonomi;Klassrum;Gamleby;NULL;2025-01-13 00:00:00.000
+5C5DBD03-A782-462D-B88C-A36A7E016A25;KompetensUtvecklingsInstitutet;Undersköterska - Eskilstuna kommun;Vård / Omsorg;Distans;Distance;NULL;2023-12-11 00:00:00.000
+B87D0120-F6FD-4EB0-A8E5-0FDC6273EFF6;Folkuniversitetet Väst ;Diplomerad Trädgårdskonsult - Göteborg;Trädgård;Klassrum;Göteborg;NULL;2024-02-21 09:00:00.000
+65B3844D-AC5E-4763-8536-2B5B00270F34;Studium;Yrkesförare buss;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+71EAE90C-35F4-4BBD-9031-C35ED5E1EC8A;Psyklinisk;Grundläggande psykoterapiutbildning Steg-1 med inriktning KBT;Psykologi;Distans;Distance;Swedish;2024-01-14 00:00:00.000
+8C8BF15A-E4C1-416F-A9DD-A1864223F735;Sverigefinska folkhögskolan;Allmän kurs;Förberedande studier;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+F23B9A74-7A65-4E44-B9D2-135841312FD6;Sverigefinska folkhögskolan;Singer/Songwriter: Allmän kurs;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+00C88397-8C9B-4408-A3D2-3B94F9688A36;Sverigefinska folkhögskolan;Sång: Allmän kurs;Sång;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+48300166-E5DB-44B3-B6D8-3A515789A361;IT-Högskolan;DevOps-utveckling;Data / IT;Distans;Distance;NULL;2024-01-22 09:00:00.000
+C53772EE-D963-415F-B0F2-7013630AD9E8;IT-Högskolan;UX och användarcentrerad design;Data / IT;Distans;Distance;NULL;2024-01-22 09:00:00.000
+3586A5CF-1DAD-4A14-8C7C-CDB02F10FD44;KompetensUtvecklingsInstitutet;Vård och omsorg vid demenssjukdom/kognitiv sjukdom;Vård / Omsorg;Distans;Distance;NULL;2024-02-12 00:00:00.000
+5182A33C-2DC2-41E6-AE53-782F2B6C89F4;Sundbybergs Folkhögskola;Vårdbiträdesutbildning;Äldreomsorg / Äldrevård;Klassrum;Sundbyberg;NULL;2024-01-10 00:00:00.000
+F610659A-766E-41ED-B25E-D1F399DF26E3;Runö folkhögskola;Allmän kurs på gymnasienivå - Steg 2;Förberedande studier;Klassrum;Stockholm;NULL;2024-01-10 00:00:00.000
+165FDA7B-B89B-4DFE-BC8F-A9BFC3977712;Runö folkhögskola;Min berättelse - svenska;Svenska;Distans med träffar;Distance;NULL;2024-01-10 00:00:00.000
+FA143ED3-0797-449E-8D3A-D60B0C9185E1;Cady Utbildningar;Tandsköterska deldistans;Tandsköterska;Distans med träffar;Göteborg;NULL;2024-01-15 00:00:00.000
+9D3E904E-F5FE-4F8C-BAE7-EC7668608116;Medborgarskolan;Diplomutbildning Ekonomi & Redovisning, Helgkurs;Ekonomi;Klassrum;Stockholm;NULL;2024-03-16 09:00:00.000
+F4D7E145-7998-499A-A0D1-70C62C5C7E4F;Medborgarskolan;Diplomutbildning Ekonomi & Redovisning;Ekonomi;Klassrum;Stockholm;NULL;2024-04-11 00:00:00.000
+85286E8E-ACC7-404A-A217-C60A4ABE3C19;Västerås Yrkeshögskola;Systemförvaltning för lönekonsulter;Ekonomi;Distans med träffar;Västerås;NULL;2023-12-11 00:00:00.000
+A7B4010B-429A-409B-8FD0-D67479348700;Knutpunktens skola med helhetssyn;Känslor och energiers påverkan, fortbildning för massörer;Friskvård / Hälsofrämjande;Klassrum;Kungälv;NULL;2024-02-16 00:00:00.000
+C741495C-3B22-4F6B-A78D-59252FFFB7D4;Folkuniversitetet Väst ;Konstlinjen - Göteborg;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-22 09:00:00.000
+275ABFE9-1B6E-4FAE-9E30-99CA0B692FB1;Nercia Utbildning;Fastighetstekniker;Fastighet / VVS;Klassrum;Skövde;NULL;2024-10-28 00:00:00.000
+96751378-488A-4272-9BA3-4E1440AEA26D;Sensus;Arbetsrätt för dig som jobbar med lön;Personal / Arbetsmiljö / HR;Distans;Distance;NULL;2024-03-05 09:12:00.000
+6E27D2CB-B345-4116-8451-F813CFFA2F32;Sollefteå Kommun - Reveljen;Stödpedagog-Kurs på tom plats;Social omsorg;Distans med träffar;Sollefteå;NULL;2024-03-06 00:00:00.000
+F0B89EC1-E76B-4E2E-B333-456AD20B1F8C;Dalaviation Technical Training;Flygtekniker - Online (Dagtid/Kvällstid);Flygtekniker;Distans;Distance;Swedish;2024-11-04 07:00:00.000
+41AE7F27-4B2D-49F4-A92D-3A08DECF7B47;Högskolan i Skövde;Cybersäkerhet och nätverksadministration;Administration;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+5227FF4E-249D-48AB-898D-DC7BB2F3272A;Kulturama;Fotografisk konstutbildning heltid;Bild / Form / Konst;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+E34FFA7C-65B5-4424-92A6-38AAB2505913;Kulturama;Fotografisk utbildning på heltid;Journalistik;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+3FFAFFE2-5E60-4C3D-A728-04FD01773275;Kulturama;Låtskrivare på deltid;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+29C1E4FB-48E8-414C-A262-3FEA422FC8AC;Arena Utbildning;Nätverkstekniker;Drift- och fastighetstekniker;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+24AB6F9E-73F8-4198-84B7-5E413CA8EBCB;Arena Utbildning;Ekonomi- och redovisningsassistent;Försäljning / Handel;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+A8E70E8F-C835-421D-9159-1FAEC35B93F9;Naprapathögskolan;Naprapatprogrammet;Kiropraktor;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+94098790-0E2B-490F-8D5A-106B8322AA86;Gilda Skolan;Hud & SPA-terapeut - Malmö;Hälsa / Friskvård;Klassrum;Malmö;Swedish;2024-02-26 00:00:00.000
+A248BB5E-71CF-41EE-87E5-AB96FE083C01;Kulturama;Sång – klassisk & musikal, heltid;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+F7E1338B-F7AE-438D-8E47-53F98DA94E4E;Kulturama;Musikalartistutbildning på heltid;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+AD5CCE3E-EDEE-4730-A051-C9AED9F5E459;Kulturama;Filmutbildning på heltid;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+A271253B-2F64-4579-A364-7525DAB1990B;Bergqvist Massage & Friskvårdsutbildningar;Massageterapeut avancerad / Certifierad Massör;Hälsa / Friskvård;Klassrum;Linköping;NULL;2024-01-24 00:00:00.000
+389FAFA9-3EAE-4B6C-A95C-01A50F076545;Bergqvist Massage & Friskvårdsutbildningar;Medicinsk massageterapeut, CSN-berättigad;Hälsa / Friskvård;Klassrum;Linköping;NULL;2024-01-15 00:00:00.000
+0356BCCE-8E29-4C81-A365-D8550F5BCDA9;Medieinstitutet;TV-produktionsspecialist;Journalistik;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+868FFBB5-253A-4636-B1C8-27BC8EFBE597;Jakobsbergs Folkhögskola;Hälsa, kost och träning, bli hälsoutvecklare!;Hälsa / Friskvård;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+6A7EC653-8CB9-497A-A188-6C4441489998;Yrkeshögskolan i Enköping;Trädgårdsmästare YH-program;Jord / Skog / Natur;Klassrum;Enköping;NULL;2024-02-26 09:00:00.000
+0E42D745-5B60-4538-A78E-7B4E28CB7F44;Trafikverksskolan;Kvalificerad signaltekniker ;Bygg / Anläggning;Klassrum;Ängelholm;Swedish;2025-08-18 00:00:00.000
+EB2FC203-FDDC-4D89-A2AB-2E18D2758182;Travel Education Centre;TRAC turism- och resekonsult med IATA;Hotell / Event / Turism;Klassrum;Stockholm;NULL;2024-10-11 00:00:00.000
+DA555F06-9C88-464B-A5CF-F191BF467BE9;Mäklarsamfundet;Kvalificerad Mäklarassistent;Redovisning / Bokföring;Distans;Distance;NULL;2024-01-11 00:00:00.000
+B0134E13-0A1D-4E2A-82A4-B0EE64FD82FF;Geijerskolan, Folkhögskolan i Ransäter;Musikteaterlinje;Estetiska utbildningar;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+AE18AA51-0AE6-4D99-BDFE-01E2A8E8DBBE;Geijerskolan, Folkhögskolan i Ransäter;Nordiska Rockmusiklinjen;Estetiska utbildningar;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+38A9DE43-095B-4403-8859-97A3B94E1989;Geijerskolan, Folkhögskolan i Ransäter;Skaparverkstad;Hantverk;Klassrum;Ransäter;NULL;2024-01-08 00:00:00.000
+6403AA26-F3B9-4BC4-9E8B-D65FD1A5591B;Folkuniversitetet Väst ;Diplomerad grafisk designer, kväll;Grafisk design;Klassrum;Göteborg;NULL;2024-02-26 00:00:00.000
+443A850D-ADAD-48C8-8788-9489274F797D;Elisabethskolan;Hud- och Spaterapeut Heltid Stockholm;Massage / SPA / Hudvård;Klassrum;Stockholm;NULL;2024-01-10 00:00:00.000
+DE1E56FD-207F-4FA3-873E-3CBE13046BF5;Akademin för SERterapi;Diplomerad Samtalsterapeut;Psykologi;Klassrum;Helsingborg;NULL;2024-02-29 09:00:00.000
+C0875A85-6CF8-4043-A395-7D6457F16BC9;Les Mills;LES MILLS DANCE™-instruktör;Idrott / Sport;Klassrum;Stockholm;NULL;2024-02-10 00:00:00.000
+B939F0B3-FF3A-4DEB-9B2C-62C5D400549D;Les Mills;BODYBALANCE® Instruktör;Idrott / Sport;Distans;Stockholm;English;2024-03-23 00:00:00.000
+95D6F1E4-44FB-41F4-ABEA-E65E01F72A23;Les Mills;BODYSTEP® Instruktör;Idrott / Sport;Distans;Distance;English;2024-02-17 00:00:00.000
+F15CC919-F9F7-491C-8111-4634419EEE53;Lillsved Idrottsfolkhögskola;Må väl - seniorkurs;Hälsa / Friskvård;Klassrum;Värmdö;NULL;2024-02-06 00:00:00.000
+9F81C314-BB21-4DA6-9C04-4647D64F3F83;Lillsved Idrottsfolkhögskola;Entreprenörskap - hälsa och hållbar utveckling (distans, deltid);Marknadsföring;Distans;Värmdö;Swedish;2024-01-15 00:00:00.000
+A86EAE79-601D-4ECB-BE1B-4743585B835F;Jakobsbergs Folkhögskola;Skriv! – Projekt: Skönlitteratur;Estetiska utbildningar;Distans med träffar;Jakobsberg;NULL;2024-01-08 09:30:00.000
+6A40ED3F-3179-47DC-ADBA-CBE939E26F7A;Sensus;Diplomerad HR-koordinator;Personal / Arbetsmiljö / HR;Klassrum;Stockholm;NULL;2024-02-22 09:00:00.000
+AD24167A-FC16-4082-8772-C47CF8F68234;STFG - Stockholms transport- och fordonstekniska gymnasium;Lastbilsförarutbildning;Fordon / Transport;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+4E95356A-5E19-4B1F-ABFF-2E6948B25E0C;STFG - Stockholms transport- och fordonstekniska gymnasium;Personbilsteknik;Industri;Klassrum;Stockholm;NULL;2024-01-08 00:00:00.000
+5D869F38-2962-406E-8107-3E3463467ADE;Sensus;Diplomerad HR-specialist;Personal / Arbetsmiljö / HR;Klassrum;Stockholm;NULL;2024-02-22 09:00:00.000
+9DC7845B-4247-4F94-961B-CD2432932F06;Bergklint education;Vitaminer & Mineraler - Antioxidanter och kosttillskott - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+20E4E32A-7DA2-4696-8C87-0CE123B7959B;Bergklint education;Sockerberoende – Verktyg och metoder för praktisk rådgivning - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+185ACE9F-023A-46F1-BB03-CF0C2AF2E00A;Folkuniversitetet Väst ;Diplomerad Ekonomiassistent med löner;Ekonomi;Klassrum;Göteborg;NULL;2024-02-21 00:00:00.000
+BE791538-74C0-4B57-826E-B1CEDF96CA87;Geijerskolan, Folkhögskolan i Ransäter;Allmän kurs - Hum-Sam;Samhällsvetenskap;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+24B6FD9C-A9AE-4302-97B0-A9E9C9EAD528;Folkuniversitetet Väst ;Diplomerad Inredare;Inredning / Homestaging;Klassrum;Göteborg;NULL;2024-02-20 09:00:00.000
+31F8A946-A53B-4EC3-ACFB-B6ECC3923E28;Medieinstitutet; Professional Video Editor;Media / Kommunikation;Klassrum;Stockholm;Swedish;2024-08-31 00:00:00.000
+752939AB-2908-4095-826D-225F5B2FD85F;ArcanumSkolan;Irisdiagnostik;Medicin / Farmaci;Distans;Distance;NULL;2024-04-30 00:00:00.000
+A3E102E5-AA1D-4EC7-B8E2-4DE0A61EF7FB;Biologiska Yrkeshögskolan i Skara (BYS);Kvalificerad djurvårdare;Djurskötare / Djurvårdare;Klassrum;Skara;NULL;2024-01-15 00:00:00.000
+0CC3AC42-0861-4596-92C3-C5032BC590F6;Livscoachakademin Kjell Haglund;NYHET SUPERCOACH (Livscoach, KBT& ACT Coach, Stresscoach, Relationscoach) 10 träffar Online;Hälsa / Friskvård;Distans med träffar;Distance;NULL;2024-01-27 00:00:00.000
+ED258BA7-583D-4700-9C25-78517553CD73;Jakobsbergs Folkhögskola;Journalistik! - yrkesförberedande med praktik ;Media / Kommunikation;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+D73DCEAC-3C01-4294-B42C-9BE3E03AFFF7;Medieinstitutet;Front End Developer ;Programmering;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+BA7F32B4-1D5E-4D98-A7C1-5DB19ED679D2;Astar;Administratör;Ekonomi;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+A153FE2C-BB15-44B8-803A-E91F5E9AF3F2;YH Akademin;Drift- och fastighetstekniker;Fastighet / VVS;Distans med träffar;Uppsala;NULL;2024-01-01 00:00:00.000
+70351D51-C256-4CC2-A073-DE59C592E37D;Astar;Bagare och konditor - Lärlingsutbildning;Kök / Restaurang;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+3DDF2AAD-C4D6-4B24-9B10-88B9F99396D6;Livscoachakademin Kjell Haglund;NYHET CERTIFIERAD ANDLIG & MENTAL COACH I PORTUGAL Upplev en Magisk Vecka;Hälsa / Friskvård;Klassrum;Tavira;NULL;2024-06-01 00:00:00.000
+028A6727-2894-4023-9B96-48A39FF9EAAB;Les Mills;LES MILLS SPRINT™ Instruktör ;Idrott / Sport;Klassrum;Göteborg;English;2024-03-23 00:00:00.000
+1D362015-A499-4082-9CF7-4C82C8D4817D;Les Mills; LES MILLS CORE™ Instruktör;Idrott / Sport;Distans;Distance;English;2024-01-27 00:00:00.000
+CD988E6B-946B-465B-856E-9D9C6FD2DED3;Les Mills;LES MILLS GRIT® Instruktör;Idrott / Sport;Klassrum;Stockholm;English;2024-02-03 00:00:00.000
+18FC6E7B-1FE0-4EE4-87CF-61FDD5F4BFE5;International Hair Academy;Frisörutbildning;Frisör;Klassrum;Stockholm;NULL;2024-05-27 00:00:00.000
+7965B712-0ACA-4467-831C-0E27916E9A63;Astar;Kock - Lärlingsutbildning;Kök / Restaurang;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+E827E0D6-EF16-4A79-8BBE-354327BAE98D;Medieinstitutet;Marketing Automation;Media / Kommunikation;Distans;Distance;NULL;2024-01-15 00:00:00.000
+2B5C01E1-DA54-4438-BDE5-2F83D946289D;Kulturama;Stockholm Operastudio år 2 - heltidsutbildning;Teater / Scenkonst;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+6505929F-25FE-4321-96B7-0B784C68C58B;Axevalla folkhögskola;Allmän kurs;Matematik;Klassrum;Axvall;NULL;2024-01-08 00:00:00.000
+B9C6D4A5-8E76-46EE-A174-19F47381D388;Sverigehälsan;Motiverande samtal - MI;Social omsorg;Klassrum;Malmö;NULL;2024-04-16 00:00:00.000
+E8916A48-0B44-4F97-8AA2-07E0656D0896;Vuxenutbildningen, Naturbruksförvaltningen Västra Götalandsregionen;Grundkurs i skogsbruk - studieförberedande;Jord / Skog / Natur;Distans med träffar;Svenljunga;NULL;2024-04-29 00:00:00.000
+E684EDAC-A3D0-4F96-902E-A9CD5DDDD317;YrkesAkademin Vux;Yrkesförare buss;Fordon / Transport;Klassrum;Falun;Swedish;2024-04-01 00:00:00.000
+0A4E1726-59DE-40EC-A851-DDC54F17D6D5;YrkesAkademin Vux;CNC-operatör ;Data / IT;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+C70C2C10-C473-45BF-94E7-C6F96195089B;YrkesAkademin Vux;Anläggningsförare;Fordon / Transport;Klassrum;Sundsvall;NULL;2024-03-18 00:00:00.000
+1BD3ACBB-2476-4950-8075-CB456F109B6F;YrkesAkademin Vux;Yrkesförare lastbil;Fordon / Transport;Klassrum;Falun;NULL;2024-04-01 00:00:00.000
+B91A474A-C377-4558-832A-10E3FD2744EB;Jakobsbergs Folkhögskola;Skriv! – Projekt: Facklitteratur;Media / Kommunikation;Distans med träffar;Jakobsberg;NULL;2024-01-08 09:30:00.000
+7510EBE0-4821-40D9-B1D7-5F8BD0AA92C8;IT-Högskolan;Javautvecklare;Programmering;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+D2294BFD-03C3-483D-B653-2C532FE253A4;Geijerskolan, Folkhögskolan i Ransäter;Kultur och måleri – distans för seniorer;Bild / Form / Konst;Distans med träffar;Ransäter;NULL;2024-08-26 00:00:00.000
+7A23DE41-5619-49BD-A586-F6B77B434776;Katrinebergs Folkhögskola;Lärar- och elevassistent;Matematik;Klassrum;Vessigebro;NULL;2024-08-19 00:00:00.000
+8D8A5BB0-CC9A-48B8-A80E-415F70E73655;Medborgarskolan;Diplomutbildning: Löneadministration;Ekonomi;Klassrum;Stockholm;Swedish;2024-04-12 09:00:00.000
+E6CF56F2-6895-4DAC-A5D9-430F77D18B4D;SIH;Hållbarhetsspecialist;Projektledning;Distans med träffar;Stockholm;NULL;2024-08-19 00:00:00.000
+4216B3FD-C117-4F9A-9C9C-B41F72DB16FE;YH Akademin;Marketing Automation Specialist;Media / Kommunikation;Distans med träffar;Helsingborg;NULL;2024-01-15 00:00:00.000
+7BF5B29B-22E1-403E-9541-EFCC7191C3DB;Personal Skills;Certifierad Kyl- och Värmepumptekniker (Stockholm);Energi;Klassrum;Stockholm;NULL;2024-08-26 09:00:00.000
+D42BFC6D-E470-42ED-8619-AE569EC9E980;Folkuniversitetet Väst ;Arbetsmiljöingenjör;Ingenjör;Distans med träffar;Göteborg;NULL;2024-08-12 00:00:00.000
+8E73C97C-305F-44E8-AAFD-7FFC684CB933;Changemaker Educations;Futuregames Prepatory course - Online;Data / IT;Distans;Distance;English;2024-01-29 00:00:00.000
+A4E67AFD-BF31-451F-A1BD-BECE806E2FD1;Medborgarskolan Syd;Diplomutbildning: Personal- och löneadministratör;Ekonomiassistent;Klassrum;Malmö;NULL;2024-02-20 00:00:00.000
+7A84D093-C547-4D3B-AF68-D55284BEC5F5;Medborgarskolan Syd;Diplomutbildning: Sömnad;Textil / Mode;Klassrum;Malmö;NULL;2024-02-09 00:00:00.000
+3573B030-16A3-4134-91CD-6557712DD63E;Medborgarskolan Syd;Diplomutbildning Technical Pattern Design – CLO3D;Bild / Form / Konst;Distans;Distance;NULL;2024-02-08 00:00:00.000
+1EC1F2FD-61EA-405E-B292-AE508A15E113;Medborgarskolan Väst;Diplomutbildning: Keramik;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-09 09:00:00.000
+B1DDF260-B8A1-453B-8B6C-763ACCA75C35;Medborgarskolan Väst;Diplomutbildning: Möbelsnickeri;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-06 09:00:00.000
+BC38CB5C-1EDF-40FE-A958-A44B7F0CC105;Nordiskt FlygTeknikCentrum;Flygtekniker med inriktning helikopter;Säkerhet / Försvar;Klassrum;Luleå;NULL;2025-08-11 12:00:00.000
+965187E8-1ED0-4B38-A0CD-7942CF2C23F5;International Hair Academy;Frisörutbildning - Komvux;Hälsa / Friskvård;Klassrum;Stockholm;NULL;2024-05-27 00:00:00.000
+DE385888-ED6C-4673-B8AE-9C261170764A;YrkesAkademin Vux;Elektriker;El / Elektronik;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+517D350E-B992-4794-8AF8-18B03720E842;Frisörcentrum;Frisörutbildning, deltid;Frisör;Klassrum;Falun;Swedish;2024-08-19 00:00:00.000
+B29263F7-34E1-47C6-9CC4-B8FEF674BFFA;IT-Högskolan;IT-projektledare;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+27546166-CF43-4CBF-94D7-C5C9AB008E68;YH Akademin;Robot och automationsprogrammerare;Teknik;Distans med träffar;Örnsköldsvik;NULL;2024-01-16 00:00:00.000
+D28C4F48-EC26-45A1-9112-42BB07CB6D48;Stockholm School of Business;Butiksledare (distans);Försäljning / Handel;Distans;Distance;NULL;2024-08-31 00:00:00.000
+76B40EEC-997F-42D2-94EA-DD775AD5D5FA;Studium;Barnskötare eller elev/stödassistent med språkstöd;Pedagogik;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+B39A06BE-E8EF-4590-B5B1-E5FC602A1DD0;Studium;Bagare och konditor;Bagare;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+041EE814-BF4C-4F16-952A-55C11AC9A71F;Studium;Undersköterska/Vårdbiträde med språkstöd flex;Undersköterska;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+7D8714DD-2ADF-4098-A3C2-CEB856D56583;Studium;Storkökskock med språkstöd;Kök / Restaurang;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+F63EA5C0-A4C7-452D-B548-882530CA389F;Studium;Kock - komplettering;Kök / Restaurang;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+058E6FFC-2CAE-4166-9A58-0AC54034EB65;Studium;Restaurangkock;Kök / Restaurang;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+D0596ADA-40EE-4645-8913-CF6E588829D7;YH Akademin;Trafiklärare;Fordon / Transport;Distans med träffar;Borlänge;NULL;2024-02-05 00:00:00.000
+DC204089-8DAD-4042-AA26-B9773F62A765;Dille Gård;Arbete med hund;Djurskötare / Djurvårdare;Distans med träffar;Krokom;NULL;2024-04-17 00:00:00.000
+93502F8D-A116-484A-B4DD-FBCFAE1441A5;Medborgarskolan Väst;Diplomutbildning: Foto;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-21 10:00:00.000
+E8D6274F-DD59-400F-911B-1C292D04F0F9;Medborgarskolan Väst;Diplomutbildning: Sömnad;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-06 00:00:00.000
+2D73BF41-D2CB-47AC-B62B-62E9C5D19F22;Livscoachakademin Kjell Haglund;NYHET CERTIFIERAD KBT & ACT COACH I TAVIRA PORTUGAL Denna Resa är Magi!;Hälsa / Friskvård;Klassrum;Tavira;NULL;2024-05-25 00:00:00.000
+71541834-750E-499E-8A5A-3A5BF4C55C4D;Åsö Vuxengymnasium;Kurspaket: Digital marknadsföring;Marknadsföring;Klassrum;Stockholm;Swedish;2024-01-08 00:00:00.000
+C0C57BAA-DBE8-4A5B-A8C3-8EE6E7AD9723;Make Up Institute;Makeupartist och hårstylist;Frisör;Klassrum;Stockholm;NULL;2024-08-05 00:00:00.000
+DD4A3C1B-6CF8-46B5-B2BC-8DB98014C57C;IT-Högskolan;.NET cloud developer;Informationsteknik / Informationsdesign;Klassrum;Göteborg;Swedish;2024-08-19 09:00:00.000
+B1B8BF13-2757-49FC-8F18-35F61D1660CE;IHM Business School;International Account Manager;Internationell ekonomi;Klassrum;Stockholm;NULL;2024-01-10 00:00:00.000
+9BDF60E4-0312-4BDE-893A-3DE17624B157;Kunskapens Hus;Truck/Lager/Budbil;Logistik / Spedition;Klassrum;Munkedal;NULL;2024-01-15 00:00:00.000
+3247ECCE-4883-41AF-9C24-E27663114AFA;Studium;Barnskötare eller elev/stödassistent;Pedagogik;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+005BCD46-0AD7-4FF8-878F-DA167BC15ABA;IT-Högskolan;Agil testautomatiserare;Data / IT;Distans;Distance;NULL;2024-01-15 08:00:00.000
+C6A1D8AD-7AC5-4A9C-A6CE-903403371939;YrkesAkademin Vux;Personbilsmekaniker ;Bil / Lastbil / Buss;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+9229EAC2-F73E-4755-A522-772C2A3ED70D;YrkesAkademin Vux;Lagerarbetare/truckförare;Fordon / Transport;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+CF4C3E5C-2637-44D1-A840-CE4DA982116D;KompetensUtvecklingsInstitutet;Vårdhygien och vårdrelaterade infektioner;Vård / Omsorg;Distans;Distance;NULL;2024-02-12 00:00:00.000
+4C960EC3-2D62-46C0-AE7F-97165A39DD1C;Högskolan i Skövde;Handelsekonomiprogrammet;Företagsekonomi;Klassrum;Varberg;NULL;2024-09-02 00:00:00.000
+B9615207-ACE0-433A-A5AF-CE84D83251FB;Högskolan i Skövde;Sjuksköterskeprogrammet;Vård / Omsorg;Klassrum;Skövde;NULL;2024-08-26 00:00:00.000
+CF573BFC-7DA3-48E0-9758-AD0F6923B70D;Högskolan i Skövde;Specialistsjuksköterskeprogram - Distriktssköterska;Specialistsjuksköterska;Klassrum;Skövde;NULL;2024-08-26 00:00:00.000
+B9105893-E5F8-4E88-85CA-A897DA4BB9DD;Restaurangakademien;Vinkurs – Grunderna inom vin ;Kök / Restaurang;Klassrum;Stockholm;Swedish;2024-04-30 18:20:00.000
+81A468D5-2200-4B37-B383-DDE9F7D439AA;Stockholm School of Business;Visual Merchandiser;Försäljning / Handel;Distans;Distance;NULL;2024-08-31 00:00:00.000
+5A146C0F-3076-444B-B7A3-85E1E42213D6;Akademi Båstad Yrkeshögskola;Kvalificerad trädgårdsmästare - hållbar utemiljöförvaltning;Trädgårdsmästare;Distans med träffar;Båstad;NULL;2024-01-22 00:00:00.000
+5B0B28BA-A356-4953-9568-D811101B4138;Yrkeshögskolan Hudvård och Spa;Hud- & spaterapeut - Göteborg;Massör;Klassrum;Göteborg;Swedish;2024-02-05 00:00:00.000
+FC513288-5AA7-4CB1-BC6B-15B7D77EAA59;Högskolecentrum i Arboga;Specialistundersköterska inom demens;Undersköterska;Distans med träffar;Arboga;NULL;2024-08-19 00:00:00.000
+2864BFB5-726D-4733-B5FA-543FF8BD0D5D;Högskolecentrum i Arboga;Systemingenjör;Ingenjör;Klassrum;Arboga;NULL;2024-08-19 00:00:00.000
+143E1A42-C417-4D34-8AA3-78A7A85D8B90;YrkesAkademin Vux;Betongarbetare ;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+89E8EA49-6F6A-4D61-A4F3-9DEBECD334D4;YrkesAkademin Vux;Murare;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+15615C32-FDC2-4E7C-8F11-31D920EFCF65;ITH - Institutet för tillämpad hydraulik;Mät- och Provningstekniker (Distans);El / Elektronik;Distans med träffar;Örnsköldsvik;NULL;2024-09-09 00:00:00.000
+9F668EC7-F69C-4B44-957B-508943982036;Västerås Yrkeshögskola;Relä- och kontrollanläggningar i Elkraftsystem;Ingenjör;Distans;Distance;NULL;2024-01-15 00:00:00.000
+A585D984-7301-46C6-B463-A244CFDD7481;Stockholm School of Business;Systemförvaltning för lönespecialister;Ekonomi;Distans;Distance;NULL;2024-02-12 00:00:00.000
+46D4FFB2-8504-4468-AA3F-131097255D91;Campus Nyköping;Palliativ vård;Vård / Omsorg;Distans med träffar;Nyköping;NULL;2024-01-08 00:00:00.000
+4B4D78E6-C710-4557-B62D-8D1A658F9F4E;Tärna Folkhögskola;Diplomerad stresspedagog;Livsstil / Personlig utveckling;Distans med träffar;Distance;NULL;2024-01-08 00:00:00.000
+706E9FAD-79B1-48D3-81C4-E1B3918AEB40;Stockholm School of Business;Redovisningskonsult;Ekonomi;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+BA275530-9DEE-4491-97F6-E2FF4D6B7E08;IHM Business School;Key Account Manager;Säljare;Distans med träffar;Distance;NULL;2024-01-15 00:00:00.000
+83C0B790-88D6-4589-82B5-1CFD54348780;Medieinstitutet;Blockchainutvecklare;Informationsteknik / Informationsdesign;Distans med träffar;Distance;NULL;2024-08-25 00:00:00.000
+33DC16E3-943C-496F-B965-F3CDBE6A02FF;Medieinstitutet;Professional Video Editor;Media / Kommunikation;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+A4E986E9-52D0-43E4-A595-C3A3F186C9FF;Nercia Utbildning;Installationselektriker;Elektriker;Klassrum;Västerås;NULL;2024-08-05 00:00:00.000
+8809D6FB-7FE1-4F48-B385-DB9C367F5394;Frisörcentrum;Proffessionell Makeupartist;Make-up;Klassrum;Falun;Swedish;2024-08-08 00:00:00.000
+5DAF9504-A466-4655-BE91-22213DD9F01D;Folkuniversitetet Väst ;Javascriptutvecklare - distans;Webbdesign;Distans;Göteborg;NULL;2024-09-02 00:00:00.000
+9FEA83D8-DC1F-472D-97ED-C648DD81FE6B;Folkuniversitetet Väst ;Mjukvaruutvecklare för mobiltetstjänster - distans;Programmerare;Distans;Göteborg;NULL;2024-09-02 00:00:00.000
+FAC6F905-391E-48B4-BB99-A89CAEE52198;Nässjöakademin;Lokförare;Fordon / Transport;Klassrum;Nässjö;Swedish;2024-01-15 09:00:00.000
+3F39FB48-BCB3-4A4A-BA06-C5D6F2EBF1D0;Folkuniversitetet Väst ;Teknikinformatör - distans;CAD;Distans;Göteborg;NULL;2024-08-12 00:00:00.000
+AB5F1177-DAA9-4D81-B079-EA2DCDBE899A;Folkuniversitetet Väst ;Frontendutvecklare - distans;Frontendutvecklare;Distans med träffar;Göteborg;NULL;2024-09-02 00:00:00.000
+59E320A9-84FA-4963-B21C-8F7E8FF41617;Jakobsbergs Folkhögskola;Florist;Estetiska utbildningar;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+315A46BD-5D83-4F18-9613-ABD8FCF42A56;Performing Arts School;Artist och Musikallinje;Musik / Sång / Musikproduktion;Klassrum;Göteborg;Swedish;2024-08-19 00:00:00.000
+76088156-6310-42B5-92AF-BECF06383924;Astar;Hotell och konferens;Hotell / Event / Turism;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+253754D1-5A85-4693-94E9-AA8E56323AD7;International Hair Academy;Barberarutbildning - Komvux;Barberare;Klassrum;Stockholm;NULL;2024-05-27 00:00:00.000
+AF62555C-3C7F-438B-B009-BF67BE28CC6E;Astar;Gästvärd;Hotell / Event / Turism;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+50AB358C-F396-498E-823F-6DA01846344F;Företagsuniversitetet;Att bygga en informationssäkerhetskultur, 20 yh-poäng;Säkerhet / Försvar;Distans;Distance;Swedish;2024-03-18 00:00:00.000
+3816CB63-EFCC-4CBC-9F13-53E319188141;Stockholm School of Business;It-säkerhet;Data / IT;Distans;Distance;NULL;2024-03-11 00:00:00.000
+42BB1EF8-665A-410A-A192-EC3AE10F569C;John Ericsson Institutet;Återbruk inom fastighet och bygg;Bygg / Anläggning;Distans;Distance;NULL;2024-03-04 00:00:00.000
+6A6B6592-A284-450B-BCAE-D0CD5927087D;Lüning Academy;Hälso- och Livsstilsterapeut;Livsstilscoach;Distans;Distance;Swedish;2024-01-08 00:00:00.000
+72F37FDB-8BE4-4F8C-B51B-FBA0E6468348;FEI – Företagsekonomiska Institutet;BSc (Hons) International Business Management (Top-up);Internationell ekonomi;Klassrum;Stockholm;English;2024-01-23 00:00:00.000
+FC8DCD6C-941C-4333-BEFF-BB62F5682B5F;FEI – Företagsekonomiska Institutet;BSc (Hons) International Production Management (Top-up);Produktionsledning;Klassrum;Stockholm;English;2024-01-23 00:00:00.000
+96E39C40-C6AF-43FD-A665-D11A7ECAC801;Högskolan i Skövde;Bioinformatik - magisterprogram;Naturvetenskap;Klassrum;Skövde;NULL;2024-01-15 00:00:00.000
+CD3EA9EB-7015-4ECE-9811-172C9C51F242;YrkesAkademin Vux;Reservdelsspecialist - tunga fordon;Fordon / Transport;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+46708679-BB30-4A7D-9F8E-C3D27B79A134;Berghs School of Communication;Public Relations;Public relations;Klassrum;Stockholm;Swedish;2024-08-12 00:00:00.000
+8EC4C9D8-C781-4571-8C08-1FC4E300FB70;Berghs School of Communication;Event och möteskommunikation;Marknadsföring;Klassrum;Stockholm;Swedish;2024-02-12 00:00:00.000
+128F39E3-EE27-42FB-97DE-605FDAC7CBFA;Berghs School of Communication;Produktions­ledning;Projektledning;Klassrum;Stockholm;Swedish;2024-08-12 00:00:00.000
+EF1B3304-A217-4017-8D0D-ED8A523A0FDF;Berghs School of Communication;Strategisk kommunikation;Marknadsföring;Klassrum;Stockholm;Swedish;2024-08-12 00:00:00.000
+3DF5364A-9D0C-43FB-99B0-B2C320922368;Högskolan i Skövde;Specialistsjuksköterskeprogram - Skolsköterska;Vård / Omsorg;Distans;Distance;NULL;2024-08-26 00:00:00.000
+B35AA438-B13C-404D-9389-A61C4BF70A61;Högskolan i Skövde;Data Science - masterprogram;Data Science;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+7B165CB6-1326-4B8A-A15B-617889776B29;Högskolan i Skövde;Folkhälsovetenskapligt program;Vård / Omsorg;Distans;Distance;NULL;2024-09-02 00:00:00.000
+8AB12911-B169-4764-9705-F072B35BF12D;Högskolan i Skövde;Virtuell ergonomi och design - masterprogram;Personal / Arbetsmiljö / HR;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+F89214C8-D013-44FD-B7EB-2E2A26CE30F1;Högskolan i Skövde;Ekonomprogrammet;Ekonomi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+113ED617-AACC-4673-B2DD-A1E3DD1F3AE1;Högskolan i Skövde;Ekologi och hållbar utveckling;Miljö / Hållbarhet;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+441A56B0-7A98-4CCF-A423-9DAAACC9DD7A;Högskolan i Skövde;Ekonomprogrammet - ledarskap och verksamhetsutveckling;Ekonomi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+7D27A52D-BB07-44DB-8C34-04525F63E2E3;Högskolan i Skövde;Datavetenskap - inriktning systemutveckling;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+007E772C-8141-4536-9CBF-E1B0E3AC99B0;Högskolan i Skövde;Dataspelsutveckling - musik;Musik / Sång / Musikproduktion;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+E3618D49-6649-4D45-B1E1-66F238C0E896;Högskolan i Skövde;Folkhälsovetenskap: Digital hälsa och kommunikation - magisterprogram;Kommunikation;Distans;Distance;NULL;2024-09-02 00:00:00.000
+C7A8EBA8-E148-443A-820A-A7CDC907DF98;Nackademin;Tandsköterskeutbildning - Distans;Tandvård;Distans med träffar;Distance;Swedish;2024-01-22 00:00:00.000
+B66F5829-126A-47A8-AA36-2C8B2906B750;Högskolan i Skövde;Ledarskap och verksamhetsutveckling - magisterprogram;Ledarskap / Organisation;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+AD343D4E-A101-4035-9D1A-1945C555A3BC;Högskolan i Skövde;Molekylär bioteknik - magisterprogram;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+E3819417-D266-4273-A0E5-063873C5BB00;Högskolan i Skövde;Intelligent automation - magisterprogram;Automation;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+28EEC684-D91D-41DC-8F30-5C8ABD9049B8;Högskolan i Skövde;Intelligent automation - masterprogram;Automation;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+AF213C46-37E0-467A-8377-ABC36CF9DE8A;Högskolan i Skövde;Molekylär bioinformatik;Biologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+3F56AFA8-0DA6-4DEC-BD0A-9A5704BEFABF;Högskolan i Skövde;Molekylär biodesign;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+E33D8776-FC41-4C46-A166-E802F7D44BB4;Högskolan i Skövde;Personal, organisation och ledarskap;Ledarskap / Organisation;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+B6FE0D5C-A5A0-4C43-80F7-64FA42F57B68;Högskolan i Skövde;Webbutvecklare - programmering;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+504D5434-6059-4B78-95C0-7209DD5EEB7A;Elisabethskolan;Hud- och spaterapeut - Deltid;Massage / SPA / Hudvård;Distans med träffar;Stockholm;NULL;2024-08-15 10:00:00.000
+08982BDF-E81D-4E53-8487-5EDFBBA4ED5B;Xplorafory Test;Software Tester;Kravanalys / Test;Distans;Distance;English;2024-03-11 16:00:00.000
+FAA97C92-0469-467C-9661-146CFFA44B01;EBT Academy;Licensierad kostrådgivare;Hälsa / Friskvård;Distans;Distance;Swedish;2024-09-09 00:00:00.000
+77509B57-03EB-447D-9928-3C833FE9D3A4;Geijerskolan, Folkhögskolan i Ransäter;Litteratur och skrivande – distans för seniorer;Kultur / Filosofi;Distans med träffar;Ransäter;NULL;2024-08-26 00:00:00.000
+6B556E3E-BB8C-4E65-BF27-D012B3C9EF2C;EBT Academy;PT-Utbildning Malmö med dubbla licenser;Kostrådgivare;Klassrum;Malmö;NULL;2024-01-30 00:00:00.000
+6F713D7B-044E-40C8-BFB1-1A8E475C98F7;Teach for Sweden;Ledarskapsprogrammet (specialutformad KPU ämneslärare åk 7-9);Ledarskap / Organisation;Distans med träffar;Stockholm;NULL;2024-07-22 00:00:00.000
+28DBE1CB-062D-4ACA-96A3-EC1BBC9F75AA;Stockholm School of Business;Försäkringsrådgivare;Försäljning / Handel;Distans;Distance;NULL;2024-08-31 00:00:00.000
+4002868C-79F6-4455-8170-C77814C1AA54;John Ericsson Institutet;VA-ingenjör;Ingenjör;Klassrum;Göteborg;NULL;2024-08-31 00:00:00.000
+DC9095A5-B571-4C43-B08F-8D073B45017F;Studium;Bilskadereparatör – lärling;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+36E53A6E-2EEF-4B74-86D7-211CD394322F;Studium;Fordonslackerare – lärling;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+D895AC03-FB73-4076-8F0D-55190B4CCDDF;Studium;Personbilsmekaniker – lärling;Bil / Lastbil / Buss;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+21123C79-1696-4F33-8CDE-F657B9F23BA0;Studium;Yrkesförare buss med språkstöd;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+DDF36D26-2971-4933-A480-9B4031C69C1C;Företagsuniversitetet;Fullstack-utvecklare;Data / IT;Klassrum;Stockholm;Swedish;2024-08-26 00:00:00.000
+0641F131-9410-45EE-9271-007174063367;Geijerskolan, Folkhögskolan i Ransäter;Kultur och måleri/fortsättningskurs – distans för seniorer;Kultur / Filosofi;Distans med träffar;Ransäter;NULL;2024-08-26 00:00:00.000
+08515DDC-7282-4ACF-808A-5B806D17BD56;Folkuniversitetet Väst ;Drifttekniker kraft- och värmeproduktion;Teknik;Klassrum;Göteborg;NULL;2024-08-19 00:00:00.000
+3AD509BC-04C0-4883-9E72-2FC78F09C584;Folkuniversitetet Väst ;Specialistundersköterska inom neurosjukvården – distans;Vård / Omsorg;Distans;Distance;NULL;2024-09-02 00:00:00.000
+68A2B32E-0658-4BC4-8532-71E49E694CE8;Campus Mölndal;CAD-konstruktör produktuveckling;CAD;Klassrum;Mölndal;NULL;2024-01-29 00:00:00.000
+AD53AA59-FF38-4603-B5F5-D18CFDA56070;Studium;Yrkesförare lastbil;Fordon / Transport;Klassrum;Göteborg;NULL;2024-04-02 00:00:00.000
+7A5B9E6E-BCFD-4B5A-BE0B-55BDD278C6C9;Studium;Mekaniker yrkesfordon;Fordon / Transport;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+A9348443-36B3-4D49-B22E-2E396049FBD1;Sverigefinska folkhögskolan;Allmän kurs: Hantverk;Hantverk;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+4E0F7F4B-1585-4CFD-8E02-356C5D87D28D;Påhlmans Handelsinstitut;Certifierad Eventmanager, online;Försäljning / Handel;Distans;Distance;NULL;2024-02-15 18:00:00.000
+877C4621-9BB1-4C0D-826B-8580289AC860;Sverigefinska folkhögskolan;Konst och konsthantverk: Happis Arts & Crafts;Hantverk;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+60C4BCEC-F355-4E4B-8D73-2C1A65710A94;Sverigefinska folkhögskolan;Ljudtekniker;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+830EEC98-AD9C-4945-843A-06794417ABC9;Sverigefinska folkhögskolan;Ljudtekniker: Eftergymnasial yrkesutbildning;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+85D833BC-4A5F-40AF-B1D8-D669B8FD0E9D;Sverigefinska folkhögskolan;Musiker: Allmän kurs;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+B117C03D-3EDA-4EF2-8E41-31A6674999D1;Sverigefinska folkhögskolan;Musiker: Eftergymnasial yrkesutbildning;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+4DEB89A1-DF73-4EF8-9182-8DCE39FF27E4;Sverigefinska folkhögskolan;Singer/Songwriter;Sång;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+28BCB08F-9293-4509-AD1A-B4F81CCB57A6;Sverigefinska folkhögskolan;Sång;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+30927442-6E88-4796-8B60-D67900F0BC6F;KompetensUtvecklingsInstitutet;Implementering av välfärdsteknik inom vård och omsorg;Teknik;Distans;Distance;NULL;2024-02-12 00:00:00.000
+F745200E-F9CF-4E53-9941-E05026387272;TUC Yrkeshögskola;Hållbart byggande & arbetsledning;Bygg / Anläggning;Distans;Distance;NULL;2024-02-05 00:00:00.000
+AB8AF468-6792-4033-B1AE-3786FB489D5F;TUC Yrkeshögskola;Symtomlindring inom palliativ vård;Vård / Omsorg;Distans;Distance;NULL;2024-02-12 00:00:00.000
+B9BF04B0-7D2E-4085-A8C3-CE468578BE9A;Medieinstitutet;Lagar och regler inom kommunikation och marknadsföring;Marknadsföring;Distans;Distance;NULL;2024-03-04 00:00:00.000
+DFD82414-9EAD-470A-9A13-F1F7374728D0;Sundbybergs Folkhögskola;Svenska som andraspråk grundläggande;Svenska som andraspråk;Klassrum;Sundbyberg;NULL;2024-01-10 00:00:00.000
+3FAA922C-97D9-4C53-9DD3-E78F62CFDA6F;Runö folkhögskola;Allmän kurs på gymnasienivå - Steg 1;Förberedande studier;Klassrum;Stockholm;NULL;2024-01-10 00:00:00.000
+13DD64E2-BCE6-446B-A393-B928FAE8399E;Runö folkhögskola;Särskild kurs – Crossmedia & design;Media / Kommunikation;Klassrum;Stockholm;NULL;2024-08-19 00:00:00.000
+2B3461BA-EC27-468D-9529-750EA73CB6FD;Runö folkhögskola;Särskild kurs – Digital medieproduktion;Förberedande studier;Distans;Distance;NULL;2024-08-19 00:00:00.000
+B088B26D-FE8A-4939-941D-36B8D1D82627;Runö folkhögskola;Arbetarkultur;Kultur / Filosofi;Distans med träffar;Distance;NULL;2024-01-10 00:00:00.000
+48C9B64C-F828-44D7-B442-E6E66CDA6C69;Folkuniversitetet Mitt;Hälsa, prevention och rehabilitering;Vård / Omsorg;Distans med träffar;Distance;NULL;2024-02-26 00:00:00.000
+FCC6217A-4919-4B74-888E-522983DF0599;Akademi Båstad Yrkeshögskola;Systematiskt hållbarhetsarbete för destinationer;Hotell / Event / Turism;Distans;Distance;NULL;2024-02-05 00:00:00.000
+4F2F49BF-23FD-4778-A2B5-628B4E6063FE;Medborgarskolan;Diplomutbildning Ekonomi & Redovisning, Distans i realtid;Ekonomi;Distans med träffar;Distance;NULL;2024-02-19 18:00:00.000
+E1E3110B-C77D-4A19-9EDD-39CE2EF013B2;Leep;Akrylgelteknik;Manikyr / Naglar;Distans;Distance;NULL;2024-01-08 00:00:00.000
+6CF39371-CDD5-4C51-A6CB-37C9B3C72C03;Leep;Akrylgelteknik;Manikyr / Naglar;Distans;Distance;NULL;2024-01-08 00:00:00.000
+95A6ED2E-70D9-4975-A958-00A6D9CA8A96;Contar;Beroende;Beteendevetenskap;Distans;Distance;NULL;2024-01-18 00:00:00.000
+6C01D90C-E30E-4A03-89AD-49441CEB7121;Knutpunktens skola med helhetssyn;Diplomerad meditationsledare ;Alternativmedicin;Klassrum;Kungälv;NULL;2024-09-01 00:00:00.000
+81616BA7-2EED-4772-9B01-0DBA3D70110D;Dalaviation Technical Training;Intensiv Flygtekniker-utbildning - Göteborg;Flyg;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+32F6BB42-0FBC-4391-B892-6D3D6D4F68DC;Dalaviation Technical Training;Intensiv flygtekniker B1 (online & praktik) - Flygplan / Helikopter;Flyg;Distans med träffar;Stockholm;NULL;2025-01-06 00:00:00.000
+F1D18CC8-2E0C-4E58-A830-B437EE857660;Dalaviation Technical Training;Intensiv Flygtekniker B2(online och praktik) - Elektriker och Avioniktekniker;Flyg;Distans med träffar;Stockholm;NULL;2024-01-08 00:00:00.000
+965CCEFE-02F9-4E95-97AD-D41B16A91EE6;Sverigehälsan;Barnskötare – Påbyggnad;Social omsorg;Distans med träffar;Stockholm;NULL;2024-04-22 00:00:00.000
+2664A809-42AD-4013-BA6F-65B8D0AFDA3C;EBT Academy;Mental coach;Livsstilscoach;Distans;Distance;NULL;2024-05-15 00:00:00.000
+0F5F8D6E-E587-4864-8D3D-CBFE08EF1B29;Studium;Storkökskock;Kock;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+B3F526E3-7957-4B25-BD1F-4255182E4D29;Kunskapens Hus;Vård och omsorg;Vård / Omsorg;Klassrum;Dingle;NULL;2024-08-26 00:00:00.000
+5324815B-35FF-4D55-871F-6C1D7FAF0A3B;Bergqvist Massage & Friskvårdsutbildningar;Spaterapeut;Massage / SPA / Hudvård;Distans med träffar;Linköping;NULL;2024-02-02 00:00:00.000
+D8CD8CD2-EB52-425C-946D-5F84F5EACA93;Kunskapens Hus;Aktivitetsledare;Vård / Omsorg;Klassrum;Dingle;NULL;2024-08-19 00:00:00.000
+5862717D-A462-4190-B43B-34C56DCA145B;Nercia Utbildning;Solcellsmontör;El / Elektronik;Klassrum;Västerås;NULL;2024-01-15 00:00:00.000
+8F1255F3-3600-436A-8E8C-038AD8E54C79;Nercia Utbildning;Solcellsmontör;Bygg / Anläggning;Klassrum;Örebro;NULL;2024-03-04 00:00:00.000
+D0DBFEE7-63E6-442B-9272-FFAB69A3C3C1;Sollefteå Kommun - Reveljen;Behandlingspedagog - kurs på tom plats;Pedagogik;Distans med träffar;Sollefteå;NULL;2023-12-13 00:00:00.000
+71DEDDDE-B651-469D-B0CA-9982B8E3BE12;YrkesAkademin Vux;Byggutbildningar;Bygg / Anläggning;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+1074B359-89A7-45E4-9BDA-C14527617D2F;Kulturama;Låtskrivare, Stockholm Musikutbildningar 2;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+B37CA0E0-38F3-4776-A734-CEA7C0F2E401;Kulturama;Stockholm Operastudio år 1 - heltidsutbildning;Teater / Scenkonst;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+D5BA5C3A-F21F-45B9-BDFB-066E1FE394ED;Kulturama;Musikerutbildning på deltid;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+F4486CA6-C005-4E29-8F2C-C81FAA8958D6;Kulturama;Sång - klassisk & musikal, deltid;Teater / Scenkonst;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+85A8271E-7DE5-4054-B692-277C3B59A114;YrkesAkademin Vux;Köksbiträde;Kök / Restaurang;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+3BCD54CD-222A-4FA8-A863-5C7B913156E5;Blueberry - College & Universitet;Sveriges utlandsstudiemässa 2024;Ekonomi;Klassrum;Stockholm;NULL;2024-02-10 12:00:00.000
+03DA5975-098A-4C9D-92A6-291B4D8B05D6;Bräckegymnasiet Komvux;Glasarbetare;Bygg / Anläggning;Klassrum;Göteborg;NULL;2024-04-04 00:00:00.000
+CD2A1730-1842-454E-9C9D-598D89FA5B38;Arena Utbildning;Målare;Målare;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+494E8582-5FB7-4E4E-8135-CBA277239C0A;Arena Utbildning;Allmänna kurser;Matematik;Distans;Distance;NULL;2025-08-05 00:00:00.000
+387A4C94-D6A4-4F05-AA48-C14BD99D7965;Studium;Mekaniker yrkesfordon elektrifiering;Mekaniker;Klassrum;Göteborg;NULL;2024-04-02 00:00:00.000
+6A4E1605-2C33-4200-8B9B-BE10851AB061;Gilda Skolan;Hud & SPA-terapeut - Göteborg;Hälsa / Friskvård;Klassrum;Göteborg;Swedish;2024-02-26 00:00:00.000
+E7144C29-659E-4C4C-A683-F91C01E0C74A;Gilda Skolan;Hud & SPA-terapeut - Stockholm;Massage / SPA / Hudvård;Klassrum;Stockholm;Swedish;2024-02-26 00:00:00.000
+5E2B9123-58F5-45EE-B479-7F4B9B388A31;Bergqvist Massage & Friskvårdsutbildningar;Massageterapeut / Certifierad Massör;Hälsa / Friskvård;Klassrum;Linköping;NULL;2024-03-01 00:00:00.000
+6AE2BD19-73C8-4DB2-809A-56803DBF941F;Sverigehälsan;Grundläggande psykoterapiutbildning med KBT-inriktning – Steg-1 KBT;Psykologi;Distans med träffar;Malmö;NULL;2024-01-26 00:00:00.000
+A8D1A99F-5D9D-40AB-9717-E8DFE93CE676;Medieinstitutet;Digital kommunikatör SoMe;Media / Kommunikation;Distans med träffar;Malmö;NULL;2024-08-31 00:00:00.000
+27D40F22-9630-41F1-BA65-8B7515DC9D10;Kulturama;Musiker, Stockholm Musikutbildningar 1 och 2;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+3B384FAD-DCAC-404B-8469-2C72295CDD5A;Jakobsbergs Folkhögskola;Bli klar med gymnasiet - få grundläggande behörighet med Allmän kurs;Naturvetenskap;Klassrum;Stockholm;Swedish;2024-01-08 00:00:00.000
+855F298D-7B18-4CDF-A96F-700C289F437A;Travel Education Centre;Project Manager Meetings & Events;Hotell / Event / Turism;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+C0A56E4B-EF82-4EF0-A2D5-AF34E57CFDC1;Geijerskolan, Folkhögskolan i Ransäter;KONST – måleri, teckning och skulptur;Hantverk;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+E5238F14-C588-4FF1-9EB4-2D566733BC26;Geijerskolan, Folkhögskolan i Ransäter;Musikproduktionslinje;Sång;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+A77F0372-202B-4C8C-B781-00E35FD028F9;Geijerskolan, Folkhögskolan i Ransäter;Kyrkomusikerutbildning på deltid/distans;Religionsvetenskap;Distans;Distance;NULL;2024-08-26 00:00:00.000
+5302D8E0-D2D5-425D-9166-E229E41DF2B4;Katrinebergs Folkhögskola;Allmän kurs;Matematik;Klassrum;Halmstad;Swedish;2024-01-10 00:00:00.000
+152881E0-E1F6-46B8-AA6F-AB5F1E7090D2;Katrinebergs Folkhögskola;Skådespelarlinje;Estetiska utbildningar;Klassrum;Vessigebro;NULL;2024-08-19 00:00:00.000
+589E931A-E189-412E-9BA8-4D481FA66372;Folkuniversitetet Väst ;Inredning och design, Art College;Grafisk design;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+88B72919-81A2-455B-95B6-4C6631FB5B46;Yrkeshögskolan Hudvård och Spa;Hudterapeut & Spaterapeut;Hälsa / Friskvård;Klassrum;Stockholm;NULL;2024-01-22 00:00:00.000
+190C9BFE-F6E5-4420-B284-1A3E7A27568B;Akademin för SERterapi;Diplomerad Regressionsterapeut;Beteendevetenskap;Klassrum;Helsingborg;NULL;2024-02-29 09:00:00.000
+B83C6695-78A2-47DE-9FBF-B49333B2FF40;Les Mills;BODYPUMP® Instruktör;Idrott / Sport;Klassrum;Stockholm;English;2024-03-23 00:00:00.000
+55AE7113-F46E-4045-8711-E495737DE214;Jakobsbergs Folkhögskola;Personlig Tränare (PT);Hälsa / Friskvård;Klassrum;Jakobsberg;NULL;2024-08-22 00:00:00.000
+46187601-8ECA-4AD9-BC1D-E759035180AF;Livscoachakademin Kjell Haglund;Certifierad KBT & ACT Coach / För den Psykiska hälsan. Online helg eller veckoutbildning  eller i Egen takt + i Portugal;Hälsa / Friskvård;Distans;Distance;NULL;2024-01-27 08:00:00.000
+28858A7A-4C8D-4A5C-BB0A-A93940F43F4D;Livscoachakademin Kjell Haglund;Certifierad Relationscoach - Webbutbildning Online helg eller veckoutbildning eller I egen takt;Livsstil / Personlig utveckling;Distans;Distance;NULL;2024-04-22 00:00:00.000
+8F7B0764-ADA1-47A3-8559-F62A3E009545;Medieinstitutet;Digital Marketing Manager;Ekonomi;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+7851A374-AD7B-458F-B12B-91DBB0B6FDAC;Bergklint education;Diplomerad/Licensierad Kostrådgivare - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+5FF87AAC-98AE-4908-B83A-FC3ED1F25B7D;STFG - Stockholms transport- och fordonstekniska gymnasium;Bussförare;Fordon / Transport;Klassrum;Stockholm;NULL;2024-01-08 00:00:00.000
+E32437DE-C1D9-4819-8C75-B445DBB9FA07;Make Up Institute;International Master Makeup Artist & Hårstylist utbildning;Frisör;Klassrum;Stockholm;NULL;2024-08-05 00:00:00.000
+A2A7E401-44F9-4313-9681-20FD68FAE9F3;Make Up Institute;Makeup Artist Utbildning;Make-up;Klassrum;Stockholm;NULL;2024-08-05 00:00:00.000
+885A586D-9D8D-4C91-92B0-0E209ECD2D70;Geijerskolan, Folkhögskolan i Ransäter;Jazzlinje;Sång;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+F8DFF9F9-9934-4E38-BE64-AF5B2F131B04;Bergklint education;Idrottsnutrition - Vidareutbildning - distans;Idrott / Sport;Distans;Distance;NULL;2024-06-24 00:00:00.000
+25E454A7-958C-47C9-932E-40C8CE7FAFC2;Livscoachakademin Kjell Haglund;Certifierad Andlig & Mental Coach.  Webbutbildning Online helg eller veckoutbildning eller i egen takt + I Portugal;Hälsa / Friskvård;Distans;Distance;NULL;2024-03-04 00:00:00.000
+8B1FAFAB-C592-4AB9-A6CA-0029196378E8;Livscoachakademin Kjell Haglund;Certifierad Mindfulness / Meditation Coach - Webbutbildning Online eller i din egen takt. Även nu i Portugal 2024;Hälsa / Friskvård;Distans;Distance;NULL;2024-04-08 00:00:00.000
+7F3BA1BD-79FA-4ECA-88D8-54DC3D65EFE5;Livscoachakademin Kjell Haglund;Certifierad Stress / Mindfulness / Qi Gong / Meditations Coach - Webbutbildning Online eller i din egen takt + Portugal;Hälsa / Friskvård;Distans;Distance;NULL;2024-04-08 00:00:00.000
+6A0CB5A6-7C6E-4231-856A-A4A46091EC71;Bergströms Kunskapsföretag AB;KBT steg 1;Psykolog;Klassrum;Malmö;NULL;2024-01-26 00:00:00.000
+6F192A69-170E-474D-82FC-D715B9EED7AC;Bergklint education;Kostombud - Kost för äldre - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+239DC934-D2B3-4723-A429-2036D59382F7;Bergklint education;Diplomerad/Licensierad Livsstilsrådgivare/Livsstilscoach/Kostrådgivare - distans;Hälsa / Friskvård;Distans;Distance;NULL;2024-06-24 00:00:00.000
+BC4D92F3-6EAB-4EDB-B0C8-686A357801B6;Bergklint education;Kostrådgivare - Fördjupningskurs - distans;Kost / Näringslära;Distans;Distance;NULL;2024-06-24 00:00:00.000
+8046AD62-09E9-4DA8-A20F-505EA62E4739;Kulturama;Musikproducent, Stockholm Musikutbildningar 1 och 2;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+6C52EE7D-A58A-4303-9040-116F96A5F518;Sverigehälsan;KBT - Ettårig KBT-utbildning;Social omsorg;Distans;Distance;NULL;2024-04-16 00:00:00.000
+20ED267B-D0B9-44F8-98B3-7A4FA029863D;Trafikverksskolan;Kvalificerad kontaktledningstekniker;Bygg / Anläggning;Klassrum;Ängelholm;Swedish;2025-08-18 00:00:00.000
+EB8A0AD8-DFD2-4E4F-96F3-8922F6E6E721;Katrinebergs Folkhögskola;Diplomerad Hälsovägledare ;Hälsa / Friskvård;Klassrum;Vessigebro;NULL;2024-08-19 00:00:00.000
+880710CA-9B10-44BB-B081-B87C12993A18;Campus Varberg;Järnvägsprojektör ;Produktionsledning;Klassrum;Varberg;NULL;2024-01-15 00:00:00.000
+A8ACB6EB-ACE3-4D09-9698-9062F6418483;IT-Högskolan;Programmering grundkurs;Programmering;Distans;Distance;NULL;2024-05-13 08:00:00.000
+358A0E91-8DB2-4C28-A570-F3BFB1D59EC9;Sverigehälsan;Stresspedagog - Diplomerad Stresspedagog med kognitiv inriktning;Samtalsterapeut;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+ADC614BD-7665-4BA3-A939-3C2E3B976876;Sverigehälsan;Hälsocoach - Diplomerad Hälsocoach med kognitiv inriktning;Hälsa / Friskvård;Klassrum;Stockholm;NULL;2024-04-22 00:00:00.000
+7EA78E0D-59E4-4612-AE7E-F1BAF3C4681E;Travel Education Centre;Management inom hotell- och besöksnäringen;Hotell / Event / Turism;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+C017E24F-1FDA-4211-83C9-A8640578686B;Medieinstitutet;Digital Content Designer;Media / Kommunikation;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+985C28F3-BEBD-426F-9FE4-48DFF8E38491;Make Up Institute;International Master Makeup Artist & Hårstylist -Distans Flex utbildning ;Frisör;Distans;Distance;English;2024-08-05 00:00:00.000
+8D5684A8-1CED-4A39-85B0-483A0C6D8D05;Make Up Institute;Makeup Artist – Distans Flex utbildning;Make-up;Distans;Distance;NULL;2024-08-05 00:00:00.000
+4B16A0BF-692E-4F71-AE83-31AE1B7DCD5D;John Ericsson Institutet;Fastighetsförvaltare;Ekonomi;Klassrum;Göteborg;Swedish;2024-08-31 00:00:00.000
+306540E1-2A40-430B-9D58-E92B8FD6FD38;Astar;Hotell och konferens - Lärlingsutbildning;Hotell / Event / Turism;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+630A0A1A-36C8-4709-96C6-78C198859CBD;YH Akademin;Arbetsledare – hållbar grönyteförvaltning;Jord / Skog / Natur;Distans med träffar;Uppsala;NULL;2024-01-08 00:00:00.000
+8B71589E-B49D-4FA3-BEDA-1DED2442B291;Sensus;Diplomerad kommunikatör;Media / Kommunikation;Distans;Distance;NULL;2024-03-12 00:00:00.000
+2C4A4FB6-0BB4-4B7E-AC77-F3AD6CF1356E;Axevalla folkhögskola;Allmän kurs - Social/psykologi;Psykologi;Klassrum;Axvall;NULL;2024-01-08 00:00:00.000
+818C5844-96C3-45EA-B117-8A240EFF278C;Contar;KBT - kognitiv beteendeterapi, introduktionskurs;Psykologi;Klassrum;Stockholm;Swedish;2024-02-01 00:00:00.000
+B6894A1E-49BA-48FB-9538-7633B08946F0;Contar;KBT-terapeut, kognitiv beteendeterapeut ;Psykoterapeut;Klassrum;Stockholm;NULL;2024-03-07 00:00:00.000
+82745DF6-B9C0-4364-BD87-97B5614F2D88;IT-Högskolan;Programmering Fortsättningskurs;Programmering;Distans;Distance;NULL;2024-04-08 08:00:00.000
+1CC2EDE1-9D76-45D7-A10B-9995E31C4722;IT-Högskolan;.NET-utvecklare;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+49E443A7-DDBB-430A-A567-6A47DD6F501A;Etec Teknikutbildning;Automationsingenjör för hållbar industri 4.0;Ingenjör;Klassrum;Oskarshamn;Swedish;2024-08-26 00:00:00.000
+F96060A6-9A53-4C25-BA9C-604F5805742F;IPTA - International Personal Training Academy;PT-utbildning i Marbella, Spanien;Hälsa / Friskvård;Distans med träffar;Marbella;English;2024-05-05 00:00:00.000
+4F1922C1-3286-4E92-8D87-8135AD9C1CEF;Restaurangakademien;Sommelierutbildning Steg 1 & Steg 2 ;Kök / Restaurang;Klassrum;Stockholm;Swedish;2024-01-30 09:00:00.000
+08318F6C-1030-4000-BF01-7F9B58D88A93;Campus Telge ;Trädgårdsmästare, ekologi och entreprenörskap;Miljö / Hållbarhet;Klassrum;Södertälje;NULL;2024-03-04 00:00:00.000
+0F21C29D-E371-4C6D-B3B7-79DA49F49957;Svenska Hälsoteamet;Holistisk Lifecoach;Livsstil / Personlig utveckling;Klassrum;Karlstad;NULL;2024-04-16 08:30:00.000
+1AD64ADE-66FC-4AD8-AC00-BD6D67C9302B;e-Universitetet;Certifierad samtalsterapeut;Samtalsterapeut;Distans;Distance;NULL;2023-12-15 00:00:00.000
+39A568D4-93DF-43B3-9761-70891D9C9BE5;Astar;Kock;Kök / Restaurang;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+3D46C2D9-BF87-4230-845E-901E23D61C33;International Hair Academy;Barberarutbildning;Frisör;Klassrum;Stockholm;NULL;2024-05-27 00:00:00.000
+38E5043C-FC0B-45CE-B5B5-AD56BD76241F;Sverigehälsan;Grundutbildning i psykoterapi med psykodynamisk inriktning – steg-1 PDT;Psykologi;Klassrum;Malmö;NULL;2024-01-19 00:00:00.000
+EDC82CC7-C1A1-4D0D-AB27-A3C885FF12FF;KompetensUtvecklingsInstitutet;Barnskötare Elevassistent - Eskilstuna;Undervisning / Pedagogik;Distans;Distance;NULL;2023-12-11 00:00:00.000
+C07BF3EF-D3AD-4821-A96E-C831B8FC0E00;Medieinstitutet;Marknadskoordinator;Media / Kommunikation;Distans med träffar;Stockholm;NULL;2024-01-15 00:00:00.000
+918F2C25-7DCC-4297-984B-28C40159AF11;YH Akademin;Affärsutvecklare Besöksnäring;Hotell / Event / Turism;Distans med träffar;Örnsköldsvik;NULL;2024-03-25 00:00:00.000
+0E83D3C7-1613-4B1C-902A-C861D63E2AB6;YH Akademin;Tekniker tunga maskiner och fordon;Teknik;Distans med träffar;Göteborg;NULL;2024-01-29 00:00:00.000
+26549967-DE6D-435E-AD64-7EE9A16DF0B0;Axevalla folkhögskola;Allmän kurs - Svenska som andraspråk;Samhällsvetenskap;Klassrum;Axvall;NULL;2024-01-08 00:00:00.000
+2657B40D-21A8-4696-A1CF-67EA1658705A;YrkesAkademin Vux;Kock;Kök / Restaurang;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+050B44CF-2C92-475E-93A7-B0344F9B9432;YrkesAkademin Vux;Svetsare;Bygg / Anläggning;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+2BB93CEE-74F8-4AAF-BDB3-885F8E863936;Campus Varberg;Energitekniker specialisering vindkraft;Teknik;Klassrum;Varberg;NULL;2024-01-15 00:00:00.000
+096C1619-CA70-448C-A50E-5B3BE6F6CEC3;Folkuniversitetet Malmö/Lund;Läke- och livsmedelstekniker;Medicin / Farmaci;Klassrum;Lund;Swedish;2024-08-21 00:00:00.000
+EEAC3ABF-D0C5-4F23-A9D5-0D5BFA1682A2;Geijerskolan, Folkhögskolan i Ransäter;Allmän kurs - Musik;Musik / Sång / Musikproduktion;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+24B1F6BF-C0BD-4431-B427-6F928DC0204F;Travel Education Centre;Destination Management;Hotell / Event / Turism;Klassrum;Stockholm;NULL;2024-08-30 00:00:00.000
+BB858E85-1A13-4462-960A-A29A12742C3E;Alfta Skogstekniska Utbildning;Grundläggande skogsutbildning 300 p ;Teknik;Klassrum;Alfta;Swedish;2024-02-19 09:03:00.000
+2F615011-2499-4469-8A69-1BE851AF53B7;Yrkeshögskolan Hudvård och Spa;Hud- & spaterapeut - Stockholm;Massage / SPA / Hudvård;Klassrum;Stockholm;Swedish;2024-03-04 00:00:00.000
+43D3548A-AD94-4CAD-B122-A7D0E99A243A;Livscoachakademin Kjell Haglund;Beroende / Medberoende Coach / Webbutbildning Online helg eller veckoutbildning eller i egen takt + i Portugal;Hälsa / Friskvård;Distans;Distance;NULL;2024-03-04 08:00:00.000
+337E53E8-3242-40B4-9FD6-72B8CCC7B1C5;Medborgarskolan Syd;Diplomutbildning: Ekonomi- och redovisningsassistent;Ekonomi;Klassrum;Malmö;NULL;2024-02-20 00:00:00.000
+AA74A5A4-238E-4922-8DCB-9C883E99B0A6;Medborgarskolan Syd;Diplomutbildning: Fotografering;Bild / Form / Konst;Klassrum;Malmö;NULL;2024-03-18 00:00:00.000
+50D81380-EAB0-4D6C-8C22-33AF0D00C295;Medborgarskolan Väst;Diplomutbildning: Konst;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-02 09:00:00.000
+038CC2A2-7449-4241-B464-2AD964A92D59;Medborgarskolan Väst;Diplomutbildning: Silversmide, smycken;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-02 09:00:00.000
+F4C60409-8D83-4C03-9A51-DCAB81BF3966;Medborgarskolan Syd;Diplomutbildning: Keramik;Keramik / Glas;Klassrum;Malmö;NULL;2024-02-04 00:00:00.000
+35BDF16C-0260-4B7F-8374-DC494481A371;IT-Högskolan;JavaScript-utvecklare;Webbdesign;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+59BD2FDE-FFFB-4252-B508-9D017306A3A8;IT-Högskolan;Frontend-utvecklare;Frontendutvecklare;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+8FFD314C-9734-46E7-9C16-6464BDB92CB8;Studium;Undersköterska;Undersköterska;Klassrum;Göteborg;NULL;2024-04-02 00:00:00.000
+B01E8CF0-FA1E-4D97-8086-CB93A7EBBD87;Studium;Trädgård - skötsel och odling;Jord / Skog / Natur;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+00CA2208-468C-44C6-ACD4-D2DDDE729BE7;Dille Gård;Skogsbrukstekniker - Yrkeshögskola;Jord / Skog / Natur;Klassrum;Krokom;NULL;2024-11-17 08:00:00.000
+8AC00E7A-B43C-4CF5-A451-36B7402CB3E7;Dille Gård;Skogsmaskinförare;Jord / Skog / Natur;Klassrum;Krokom;NULL;2024-08-18 00:00:00.000
+87F22632-F4FF-4440-86C4-ACACF157E141;Medborgarskolan Väst;Diplomutbildning: Keramik, fördjupning;Estetiska utbildningar;Klassrum;Göteborg;NULL;2024-02-06 09:00:00.000
+5FD43F40-EF23-47CD-9F52-552B29D28190;Medborgarskolan Syd;Grundutbildning för kontakttolk - Distans;Språk;Distans;Distance;NULL;2024-01-19 00:00:00.000
+B6A36269-E052-44E3-8B9A-D0F213327CC1;Sverigehälsan;Lärarassistent - kostnadsfri och CSN-berättigad utbildning;Pedagogik;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+69F99B71-D6BB-45D9-9A9A-3289AE3667A5;Arbetarrörelsens folkhögskola i Göteborg och Viskadalen;Polispreparand;Juridik;Klassrum;Seglora;NULL;2024-01-08 00:00:00.000
+EECE9A33-9C3A-42DE-BF7D-7CE1CF417F9F;Make Up Institute;Makeupartist & Hårstylist - Distans Flex utbildning;Frisör;Distans;Distance;English;2024-08-05 00:00:00.000
+01FDE8F8-9214-4056-A2C5-C88803CB12E7;Sverigehälsan;Trauma och PTSD;Psykologi;Klassrum;Malmö;NULL;2024-10-14 00:00:00.000
+192A7452-AA85-421B-8946-E945C3CE4E41;ITH - Institutet för tillämpad hydraulik;Hydraulsystemtekniker;El / Elektronik;Klassrum;Örnsköldsvik;NULL;2024-09-02 00:00:00.000
+BFF77FEE-F0D8-49EF-9955-001409217A48;ITH - Institutet för tillämpad hydraulik;Hydraultekniker (Distans);Automation;Distans;Distance;Swedish;2024-08-19 00:00:00.000
+908DF965-F7DF-4CB9-B944-932CEBA37B42;IHM Business School;Ekonomi- och redovisnings­konsult;Ekonomi;Klassrum;Stockholm;NULL;2024-01-15 00:00:00.000
+0D17F8C5-C1A4-4DE4-B406-787733092C79;Katrinebergs Folkhögskola;Hallands konstskola;Estetiska utbildningar;Klassrum;Halmstad;NULL;2024-08-19 00:00:00.000
+05E4D062-D365-4E59-BB92-E687A59B776A;Les Mills;Group Fitness Management;Hälsa / Friskvård;Distans;Distance;English;2023-12-14 00:00:00.000
+2FD466D3-90A1-4541-B160-6CF53A9E46C0;Geijerskolan, Folkhögskolan i Ransäter;Sånglinje;Estetiska utbildningar;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+83E7BB04-75EE-463B-AB65-7421A4751874;Företagsuniversitetet;Ledning och samordning av informations- och cybersäkerhet, 32 yh-poäng;Säkerhet / Försvar;Klassrum;Stockholm;Swedish;2024-03-08 00:00:00.000
+170FC669-CE4A-430C-BC3C-B0485C6B3A8A;YrkesAkademin Vux;Träarbetare ;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+E1E723B5-9E54-408F-AD51-FE10E7290C2D;YrkesAkademin Vux;Golvläggare ;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+2D20B59A-087E-4CEE-82E5-2F5408E9299F;YrkesAkademin Vux;Plattsättare ;Bygg / Anläggning;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+F730BE4D-EEB7-4CB6-A366-3829D1CAE4CC;YrkesAkademin Vux;Lastbilsmekaniker;Bil / Lastbil / Buss;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+64A02FC3-D830-4985-AE6A-E64633FF02B1;YrkesAkademin Vux;Fastighetsskötare;Fastighet / VVS;Klassrum;Falun;NULL;2024-03-18 00:00:00.000
+33980458-71A1-420D-8F6E-3B2148251727;KompetensUtvecklingsInstitutet;Palliativ vård;Vård / Omsorg;Distans;Distance;NULL;2024-02-12 00:00:00.000
+BE3070D1-152B-45E7-A838-3A168EEB15F4;Fastighetsakademin;Diplomerad Fastighetsförvaltare;Fastighet / VVS;Klassrum;Göteborg;Swedish;2024-01-09 00:00:00.000
+BAEEB53B-91D4-45B2-B42E-3E576B2F56A5;Löftadalens Folkhögskola;Allmän kurs – Din väg vidare. Behörighet till högskola, YH och gymnasium;Matematik;Klassrum;Åsa;Swedish;2024-01-08 09:00:00.000
+3A952174-83D3-4F64-9C34-77A3E67A38C1;Högskolan i Skövde;Integritet, informationssäkerhet och cybersäkerhet - masterprogram;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+B5B006DB-A2EC-4E68-ACCA-FB9DC080660D;Löftadalens Folkhögskola;Allmän kurs – Svenska som andraspråk;Allmän kurs;Klassrum;Åsa;NULL;2024-01-08 09:00:00.000
+C4114E13-8050-4349-B732-BBCAFFC77075;Restaurangakademien;Sommelierutbildning Steg 1;Kök / Restaurang;Klassrum;Stockholm;Swedish;2024-01-30 09:00:00.000
+E678B896-82C9-483F-A79F-8CE11E3F6313;Restaurangakademien;Sommelierutbildning Steg 2 ;Kök / Restaurang;Klassrum;Stockholm;Swedish;2024-01-15 09:00:00.000
+67DE6702-3BA9-487A-A3F8-FF83AE1AE1AA;Sensus;Arbetsmiljöutbildning - för chefer, arbetsledare och skyddsombud;Personal / Arbetsmiljö / HR;Klassrum;Stockholm;NULL;2024-01-30 09:00:00.000
+63DF5AB1-3224-4793-9D68-187335FA6DA9;YH Akademin;BIM-samordnare;Bygg / Anläggning;Distans med träffar;Skellefteå;NULL;2024-01-29 00:00:00.000
+7ED02D21-A94A-4602-A7F5-C8A56377D4CF;Högskolecentrum i Arboga;Underhållsingenjör;Ingenjör;Klassrum;Arboga;NULL;2024-08-19 00:00:00.000
+B5F504D1-4F06-4DD3-BBA2-56DD47EE671E;ForshagaAkademin;Fiske- och Jaktguide (YH);Jord / Skog / Natur;Klassrum;Forshaga;NULL;2024-08-12 00:00:00.000
+2672AAEC-967A-4251-A30D-CA73896751C2;Företagsuniversitetet;Upphandling av digitalisering och IT-lösningar, 15 yh-poäng;Data / IT;Distans;Distance;Swedish;2024-03-20 00:00:00.000
+9B3EDAAB-4E57-4F4E-B8CC-69E159A20885;Sexologiskolan;Master-Researcher in Modern Sexology & Relationship Therapy;Beteendevetenskap;Klassrum;Oslo;NULL;2024-08-19 00:00:00.000
+52F79A3F-7FA3-433E-8F78-9E68822586C9;Jakobsbergs Folkhögskola;Allmän kurs - naturvetenskapligt basår;Naturvetenskap;Klassrum;Jakobsberg;NULL;2025-01-07 00:00:00.000
+ADF06471-3376-48C3-8307-D44684FF904B;Medieinstitutet;Digital Analytics;Media / Kommunikation;Klassrum;Stockholm;NULL;2024-08-31 00:00:00.000
+30213723-2146-4C32-AE5D-2610A758E708;Nercia Utbildning;Fastighetsskötare;Fastighet / VVS;Klassrum;Västerås;NULL;2024-08-05 00:00:00.000
+EA109A49-26C8-4A0F-825A-7A9E4112FDB6;Nercia Utbildning;Larm och säkerhetstekniker;Larmtekniker / Säkerhetstekniker;Klassrum;Västerås;NULL;2024-08-05 00:00:00.000
+C9705F4E-7BFF-40BD-AC50-9ABA1C42E366;IHM Yrkeshögskola;Key Account Manager;Säljare;Distans med träffar;Distance;NULL;2024-01-21 00:00:00.000
+5FD66E08-4977-47A9-A025-B75A35D9E9B9;Frisörcentrum;Frisörutbildning komvux;Frisör;Klassrum;Falun;Swedish;2024-01-08 00:00:00.000
+46AB2D32-8FAB-4AB4-B673-9596E2DDB2DE;Frisörcentrum;Frisörutbildning;Frisör;Klassrum;Falun;Swedish;2024-01-08 00:00:00.000
+7B832985-3255-4DA6-A6D4-8AE10D3AD44B;YH Akademin;BI-Analyst med AI-kompetens;Data / IT;Distans med träffar;Trollhättan;NULL;2024-01-08 00:00:00.000
+0B1032DD-AEC2-421F-A208-EEB7B005CD1F;Företagsuniversitetet;Säkerhets- och trygghetskoordinator Göteborg 75% studietakt, 300 yh-poäng;Säkerhet / Försvar;Klassrum;Göteborg;Swedish;2024-08-26 00:00:00.000
+98182FF8-E16A-4652-AFE9-990565B538A8;Sunderby folkhögskola;Naturvetenskapligt basår;Naturvetenskap;Klassrum;Luleå;NULL;2024-01-10 00:00:00.000
+0A5A058B-333A-43E5-BD31-C1C2C0F78920;TCC Academy;Arbetsmiljöingenjör;Ingenjör;Distans med träffar;Skellefteå;NULL;2024-09-02 00:00:00.000
+2CADC0B4-8C5C-4883-8354-92CFC185906A;TCC Academy;Kvalificerad bantekniker;Teknik;Klassrum;Nässjö;NULL;2025-08-18 00:00:00.000
+6BA5FCD5-EF5E-49B6-BFCF-FF9E79889930;TCC Academy;Lokförare;Lokförare;Klassrum;Göteborg;Swedish;2024-08-26 00:00:00.000
+0DF15DE3-EA28-4248-92E2-A1589F8375CF;Löftadalens Folkhögskola;Allmän kurs – Fjärr;Allmän kurs;Distans;Distance;NULL;2024-01-08 00:00:00.000
+B45EF27A-5BA9-4EEB-88A6-E16F0D1897E1;Astar;Servitör;Kök / Restaurang;Klassrum;Jönköping;NULL;2024-01-08 00:00:00.000
+648A63DC-522C-49B4-B904-22C2BF3A932C;Företagsuniversitetet;Säkerhetsskyddssamordning, 60 yh-poäng;Säkerhet / Försvar;Distans;Stockholm;Swedish;2024-04-08 09:00:00.000
+247F3966-FF50-4905-8EC5-DE3CDF578072;IT-Högskolan;Pythonprogrammering för AI-utveckling;Data / IT;Distans;Distance;NULL;2024-01-15 08:00:00.000
+B8224E4A-C641-48D9-A0FE-C205E66C1951;FEI – Företagsekonomiska Institutet;BSc (Hons) International IT Management (Top-up);Business intelligence;Klassrum;Stockholm;English;2024-01-23 00:00:00.000
+23217A6B-4925-493B-8D5F-7C9974FBAB0C;Högskolan i Skövde;Folkhälsovetenskap: Smittskydd och vårdhygien - magisterprogram;Vård / Omsorg;Distans;Distance;NULL;2024-01-15 00:00:00.000
+CA33284B-054B-411E-850A-32B3F9DB5134;YrkesAkademin Vux;Reservdelsspecialist - lätta fordon;Fordon / Transport;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+9EACCA62-783D-4EBF-9463-C3907F619BAB;YrkesAkademin Vux;Väg- och anläggningsarbetare ;Anläggare;Klassrum;Stockholm;NULL;2024-03-18 00:00:00.000
+A70900E1-7CBE-42AE-A5A8-6002778B9365;Dille Gård;Förarutbildning Buss;Bil / Lastbil / Buss;Klassrum;Krokom;NULL;2024-03-01 00:00:00.000
+A3C833CF-24D7-4322-811C-FDF1A0DFA643;Högskolan i Skövde;Biomarkörer inom molekylär medicin - masterprogram;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+1731468E-67BE-4EDD-97EF-D019E3EBF0FC;Högskolan i Skövde;Biomedicinprogrammet;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+10ACCE6E-4042-44E4-A372-8C7ACD6372CA;Högskolan i Skövde;Digitalt berättande: spel och kulturarv - magisterprogram;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+C0EB0507-0358-4A2E-9498-13D85E05A46D;Högskolan i Skövde;Data Science - magisterprogram;Data Science;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+7DEA1EBF-482D-496A-827A-9D91461C3684;Högskolan i Skövde;Dataspelsutveckling - 3D-grafik;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+7505BD8C-E12C-465B-AF30-6684DA257D89;Högskolan i Skövde;Dataspelsutveckling - 2D-grafik;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+2C3DC4E0-01EF-4FBF-B7FF-39A981960000;Högskolan i Skövde;Dataspelsutveckling - design;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+6E7396BC-291E-4595-B49B-D5DAED7BA08B;Högskolan i Skövde;Ekonomprogrammet - redovisning och revision;Ekonomi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+FE5670A6-6F1F-4E2E-881D-6D07A74D3338;Högskolan i Skövde;Dataspelsutveckling - ljud;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+A0F4DC11-490B-44CC-A70A-C1A429A24A83;Expressive Arts Stockholm;Workshop i expressive arts - Möt din inre hjälpare & låt vingarna bära dig!;Estetiska utbildningar;Klassrum;Stockholm;NULL;2024-02-23 10:00:00.000
+5A4B0751-15CF-426F-9903-5CBD2454F7BE;Högskolan i Skövde;Games user experience - magisterprogram;Spelutveckling;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+28E3A2AE-EC41-4692-8D49-A0410E1445DB;Högskolan i Skövde;Kognitiv neurovetenskap: Medvetandet och hjärnan - magisterprogram;Psykologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+A99A648E-52DE-41B6-8336-7FD77CDFBC26;Högskolan i Skövde;Maskiningenjör;Ingenjör;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+6C952CB5-6547-4C89-8C7E-FC37AC8EC700;Högskolan i Skövde;Kognitiv neurovetenskap - tillämpad positiv psykologi;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+AA529186-1849-457F-9178-2A92DC816E16;Högskolan i Skövde;Kognitiv neurovetenskap - neuropsykologi och medvetandestudier;Naturvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+D577DE46-0F39-4452-B544-1C9A40B1C1F7;Högskolan i Skövde;Infektionsbiologi - magisterprogram;Biologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+69A74109-0C84-473C-87F8-C3B25F321147;Högskolan i Skövde;Infektionsbiologi - masterprogram;Biologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+FDE850FD-5AE0-4AAF-B20A-D35AB8F46473;Högskolan i Skövde;Molekylär bioteknik - masterprogram;Biologi;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+63FC4F72-63EC-43BE-91BF-59C90406E73C;Högskolan i Skövde;Nätverks- och systemadministration;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+C1102B68-D90A-4212-BC35-4CBD4671562D;Högskolan i Skövde;Serious Games - magisterprogram;Data / IT;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+357000C7-2B18-4260-800E-5B8B796F112A;Högskolan i Skövde;Socialpsykologiskt program;Vård / Omsorg;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+4F69DF29-FC94-4BFD-863C-73D53D5F6128;Högskolan i Skövde;Systemvetenskap;Systemvetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+0825A744-9A15-43F9-BE26-1F2A5FCCB3D8;Högskolan i Skövde;User Experience Design;Beteendevetenskap;Klassrum;Skövde;NULL;2024-09-02 00:00:00.000
+8034F242-6256-445E-A3D2-C6BA317211E8;Katrinebergs Folkhögskola;Kontakttolk;Tolk;Distans;Distance;NULL;2024-01-15 00:00:00.000
+8DB7134B-F2A2-4B4F-92FC-2869B0C2265A;Geijerskolan, Folkhögskolan i Ransäter;Kompositionslinje;Musik / Sång / Musikproduktion;Klassrum;Ransäter;NULL;2024-08-26 00:00:00.000
+9FD4C1F3-11A5-47F0-A3CA-BC87575B4A4B;EBT Academy;PT-Utbildning Göteborg med dubbla licenser;Kostrådgivare;Klassrum;Göteborg;NULL;2024-01-30 00:00:00.000
+61451F08-0444-4209-8370-D942B36F1501;Sensus;Bokföring från början;Ekonomi;Distans;Distance;NULL;2024-03-12 00:00:00.000
+6586A7AF-8165-412D-A36C-181993B89416;YH Akademin;Socialpedagog;Beteendevetenskap;Distans med träffar;Uppsala;NULL;2024-01-08 00:00:00.000
+1A56387B-AC4D-436C-9935-AFE3E3F8259E;Studium;Yrkesförare lastbil med språkstöd;Fordon / Transport;Klassrum;Göteborg;NULL;2024-04-02 00:00:00.000
+28059808-FEA2-4CCD-AFCD-B6F52B2B268E;IT-Högskolan;Mjukvarutestare;Data / IT;Klassrum;Göteborg;NULL;2024-08-19 09:00:00.000
+8B41D27E-A159-421F-862A-B042524755FE;Medieinstitutet;Fullstack Developer;Data / IT;Distans med träffar;Distance;NULL;2024-08-31 00:00:00.000
+08795ADE-F5AB-4E7E-9444-1642CEEF37FE;John Ericsson Institutet;Järnvägsingenjör;Ingenjör;Distans;Distance;NULL;2024-08-31 00:00:00.000
+CBD58A12-EBA5-47B7-B2F9-3EECE6DE2CF1;Studium;Bagare och konditor med språkstöd;Bagare;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+D8EDA190-7AD6-4110-B98D-7891BA200023;Yrkeshögskolan i Luleå;Tandsköterska;Tandsköterska;Distans med träffar;Luleå;Swedish;2024-09-16 00:00:00.000
+33C7A233-FBCD-422F-94A8-B2F857997198;IT-Högskolan;IT-säkerhetstestare;Data / IT;Distans;Distance;Swedish;2024-08-19 08:00:00.000
+0CD445C9-F0A2-4691-A6B7-A19BA77FF5E9;TCC Academy;Produktionslogistiker;IT / Nätverk;Distans med träffar;Skellefteå;NULL;2024-09-02 00:00:00.000
+A58C4CE5-B5C7-46C6-8A08-D55AD2ED9022;YH Akademin;Mobilitetstekniker;Fordon / Transport;Distans med träffar;Västerås;NULL;2024-01-29 00:00:00.000
+9B012226-4D7E-48C6-9623-1F33251077D5;Gerlesborgsskolan;Konstnärlig grundutbildning ;Bild / Form / Konst;Klassrum;Hamburgsund;NULL;2024-08-26 00:00:00.000
+4F8B179D-B9DB-4492-B385-1DA6A1628E06;Formakademin i Lidköping;Produktionsdrejare ;Estetiska utbildningar;Klassrum;Lidköping;NULL;2024-01-02 00:00:00.000
+61795F98-8C09-4838-9784-18C63087E72F;Floristutbildarna;Florist Steg 1 Heltid, Skolverkets kursmål;Florist;Klassrum;Västerås;NULL;2024-01-23 09:00:00.000
+17EB127C-AAA1-43F5-B722-611D11A0FEB4;Floristutbildarna;Florist Distans 1A, 1B ;Florist;Distans med träffar;Stockholm;NULL;2024-01-19 00:00:00.000
+52747F1B-8798-4A7D-A0E5-33F039EBFB0F;Floristutbildarna;Florist Distans 2A, 2B;Florist;Distans med träffar;Stockholm;NULL;2024-01-09 00:00:00.000
+E6BFD73E-40FC-40AC-A6FD-26EE7D362DD7;Stockholm School of Business;Förändringsledning för hållbart företagande;Entreprenörskap / Företagande;Distans;Distance;NULL;2024-02-19 00:00:00.000
+BFB0A499-56C4-47AB-99CF-C48D8BAA3870;Sverigefinska folkhögskolan;Allmänna kurser;Förberedande studier;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+DE782822-794F-44AE-A932-1F0E400BB2D0;Sverigefinska folkhögskolan;Ljudtekniker: Allmän kurs;Förberedande studier;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+A34D2324-9E31-496A-9542-63340972E82D;Sverigefinska folkhögskolan;Musiker;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+1A590A87-0283-4B49-AD38-39404CF8BCAA;Sverigefinska folkhögskolan;Musikproduktion;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+F46A94A0-481C-4741-A576-7406185DC82A;Sverigefinska folkhögskolan;Singer/Songwriter: Eftergymnasial yrkesutbildning;Musik / Sång / Musikproduktion;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+713EE89D-CC73-4E5A-AF90-1FC201D52251;Sverigefinska folkhögskolan;Särskilda kurser - Profilkurser;Förberedande studier;Klassrum;Haparanda;NULL;2024-08-19 10:00:00.000
+94907073-EAD0-4CF8-A3AF-B23C8B03AA2F;Sverigefinska folkhögskolan;Yrkesutbildningar;Estetiska utbildningar;Klassrum;Haparanda;NULL;2024-08-19 00:00:00.000
+DF6A1752-DC95-4197-9558-FF92D5CC8936;IT-Högskolan;Embedded Systems;Data / IT;Distans;Distance;NULL;2024-01-29 09:00:00.000
+A90CF415-599D-49A2-8A08-EA41D34A1571;Medieinstitutet;Typescript;Programmering;Distans;Distance;NULL;2024-03-18 00:00:00.000
+40C774A9-0C9E-4E00-A719-FC00F35D6BB4;Medieinstitutet;UX och tillgänglighet för utvecklare;Webbdesign;Distans;Distance;NULL;2024-03-18 00:00:00.000
+9EB1E0A5-392C-4031-A6D3-BAC9696B8179;Sundbybergs Folkhögskola;Arbeta på svenska 1;Svenska som andraspråk;Klassrum;Sundbyberg;NULL;2024-01-10 00:00:00.000
+65C23239-8C8F-42F4-9EC2-47889F1983A4;Sundbybergs Folkhögskola;Barnomsorg;Pedagogik;Klassrum;Sundbyberg;NULL;2024-01-10 00:00:00.000
+3CC7AF11-4989-4094-95B5-79C003B1C30F;Stockholm School of Business;Digital transformation för lönespecialister;Löneadministratör;Distans;Distance;NULL;2024-03-04 00:00:00.000
+BC165F57-8C53-4099-BC67-180888E72601;Stockholm School of Business;Hållbarhetsredovisning för redovisningskonsulter;Redovisning / Bokföring;Distans;Distance;NULL;2024-03-11 00:00:00.000
+EB6E2D81-BCD5-4B61-8413-6965012EEA33;Sundbybergs Folkhögskola;Allmän kurs - behörighetsgivande kurs;Samhällsvetenskap;Klassrum;Sundbyberg;NULL;2024-01-10 00:00:00.000
+61B3847C-3502-4174-9B1D-A7B53AD6C1B5;YH Akademin;Industriellt träbyggande;Bygg / Anläggning;Distans;Distance;NULL;2023-12-11 00:00:00.000
+4F3F19FC-7271-47B1-AD35-F6563C1F2F27;Runö folkhögskola;Allmän kurs på grundläggande nivå;Allmän kurs;Klassrum;Stockholm;NULL;2024-01-10 00:00:00.000
+055D8706-E5A2-43EB-A593-82134255ECD8;Runö folkhögskola;Särskild kurs – Medieproduktion Grund;Media / Kommunikation;Distans;Distance;NULL;2024-08-19 00:00:00.000
+5E38F6D6-7734-4A84-90FD-6E385B63BF50;Runö folkhögskola;Min berättelse - persiska;Språk;Distans med träffar;Distance;NULL;2024-01-10 00:00:00.000
+89031D69-300E-419F-B6BD-5D647A7A9CEB;Medborgarskolan;Diplomerad florist - grund;Hantverk;Klassrum;Stockholm;NULL;2024-02-03 09:30:00.000
+C40AA29D-B264-49DA-94FB-E83C4E6D684F;Folkuniversitetet Väst ;Förberedande Arkitektur;Inredningsarkitekt;Klassrum;Göteborg;NULL;2024-02-21 09:00:00.000
+95589FF5-43B0-4DB5-AD05-EBC9F79609FB;Nercia Utbildning;Elektriker med två inriktningar;Bygg / Anläggning;Klassrum;Skövde;NULL;2024-10-21 00:00:00.000
+4C32672D-38DA-49F0-81CB-9AE4BE2AB489;Dalaviation Technical Training;Intensiv flygtekniker B1(Kväll) - Flygplan / Helikopter;Flyg;Klassrum;Stockholm;NULL;2025-01-06 00:00:00.000
+B96C5259-564A-4F05-82B9-B45ECB72D175;Sverigehälsan;Barnskötare / Elevassistent – Bas;Barnskötare;Distans med träffar;Stockholm;NULL;2024-04-22 00:00:00.000
+DE766578-E32C-408E-940C-3E1F8DC1E319;Sverigehälsan;Elevassistent – Påbyggnad;Pedagogik;Distans med träffar;Stockholm;NULL;2024-04-22 00:00:00.000
+2F8E7C63-AE67-4E4B-93E2-76637CB1C758;Studium;Personal bilverkstad – lärling med språkstöd;Bil / Lastbil / Buss;Klassrum;Göteborg;NULL;2024-01-08 00:00:00.000
+339299CB-D24F-4051-9DE9-1483647D4F4D;P&D Group Investments and Education;Certifierad Professional Trader;Finans / Analys / Statistik;Distans;Distance;NULL;2024-01-25 00:00:00.000
+05850387-8EE3-4E35-9AC0-1C4AA31D76BE;P&D Group Investments and Education;Certifierad Elite Trader;Finans / Analys / Statistik;Distans;Distance;NULL;2024-01-24 00:00:00.000
+264281EE-1DCD-400F-B0A5-757DD9B9B026;Education by Belle ;Hud & spaterapeut;Make-up;Klassrum;Kalmar;NULL;2024-08-19 00:00:00.000
+36693DFC-893F-43A2-8B26-AFBF8A6DFF02;Kulturama;Sångare, Stockholm Musikutbildningar 1 och 2;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+9F5C212D-1EFB-4D52-ABD7-627BA7B1EE51;Malmö mixologiskola;Bartenderutbildning i Malmö;Bartender;Klassrum;Malmö;NULL;2023-12-18 00:00:00.000
+76E0EF2F-46C7-4C1B-955E-EC0D44A60C53;Kulturama;Filmproduktion på heltid;Film / TV;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+C13D43A1-A039-4F79-A6BD-D26483914014;Kulturama;Högre musikalartistutbildning;Teater / Scenkonst;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+49E831B4-2D9B-42A0-8B1A-27F87F4D03F2;Kulturama;Dansare heltid eller deltid i Visby;Dansare / Koreograf;Klassrum;Gotlands Län;NULL;2024-09-02 00:00:00.000
+5F488C18-F961-477A-9127-E32CF854093C;Kulturama;Sångare deltid;Musik / Sång / Musikproduktion;Klassrum;Stockholm;NULL;2024-08-26 00:00:00.000
+38A1F340-A424-4E4E-A413-9D93D75067D7;Kulturama;Operautbildning på deltid;Teater / Scenkonst;Klassrum;Stockholm;NULL;2024-09-09 00:00:00.000
+B139BD03-EBEE-4D89-BB5D-CB3F4BFB0995;Travel Education Centre;IATA, GDS och andra bokningssystem;Hotell / Event / Turism;Klassrum;Stockholm;NULL;2024-03-11 00:00:00.000
+BC94E1D9-8C73-4886-A0DC-0E72582414B7;Arena Utbildning;Installationselektriker;Bygg / Anläggning;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+0C43A971-6C2A-4543-832F-8DE400889C33;Arena Utbildning;Programmering;Data / IT;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+581E8785-FBAD-4087-AF18-BD8AF83068F7;Arena Utbildning;Barnskötare / Elevassistent Bas och påbyggnadskurser;Pedagogik;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+EB6F57E5-2AA4-4F4A-9573-CFEDBA761EF7;Arena Utbildning;Undersköterska;Vård / Omsorg;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+8868BC2D-6AB4-4A3A-8212-0077837F4D08;Arena Utbildning;Handel Bas;Ekonomi;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+38C9B2C1-5502-41C4-AAF4-AC8273B9F141;Arena Utbildning;Handel påbyggnadskurser  inom  säljstöd, lager och butik;Säljare;Klassrum;Solna;NULL;2025-08-05 00:00:00.000
+0A90CED9-883E-4D0B-86DC-DA25F13FA78C;Axevalla folkhögskola;Projektledare;Projektledning;Distans;Distance;NULL;2024-01-22 00:00:00.000
+861E49F8-1F85-45C3-ADB5-D8F49F24D847;Nackademin;UX-design online;Webbdesign;Distans;Distance;English;2024-08-13 00:00:00.000
+CD147D22-1444-407A-9AEE-786F7D1F0D9D;Contar;Terapeutens misstag;Psykoterapeut;Distans;Distance;NULL;2024-03-19 09:00:00.000
