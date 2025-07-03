@@ -24,7 +24,7 @@ better-sqlite3
 
 `npm i`
 
-`create-db`
+`npm run create-db`
 
 `npm run dev`
 
