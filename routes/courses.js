@@ -33,9 +33,9 @@ router.get("/search", async (req, res) => {
 });
 
 router.post("/savedsearches", async (req, res) => {
-  console.log("params", req.body.searchParams);
+  console.log("params", req.body.userSearchParams);
   try {
-    await addSavedSearch(db, req.body.searchParams);
+    await addSavedSearch(db, req.body.userSearchParams);
     res.status(201).send("created");
   } catch (error) {
     console.log("error from /savedsearches:", error);

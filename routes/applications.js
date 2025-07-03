@@ -15,9 +15,7 @@ router.post("/:courseid", async (req, res) => {
   } catch (error) {
     console.error("error from /:courseid/apply :", error);
     if (error.code === "SQLITE_CONSTRAINT_UNIQUE") {
-      return res
-        .status(400)
-        .send({ message: "You have already applied for this course" });
+      return res.status(400).send("You have already applied for this course");
     }
     res.status(500).send({ message: "server error" });
   }
@@ -29,7 +27,7 @@ router.get("/", async (req, res) => {
     res.json(applications);
   } catch (error) {
     console.error("error from /savedcourses :", error);
-    res.status(500).send({ message: "server error" });
+    res.status(500).send("server error");
   }
 });
 

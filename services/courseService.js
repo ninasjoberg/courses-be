@@ -30,8 +30,6 @@ export const getBySearch = (
     conditions.length ? `WHERE ${conditions.join(" AND ")}` : ""
   } LIMIT @limit OFFSET @offset;`;
 
-  console.log("!!!!!", sql);
-
   const stmt = db.prepare(sql);
   return stmt.all(params);
 };
@@ -62,7 +60,7 @@ export const addSavedCourse = (db, courseId) => {
 
 export const getSavedCourses = (db) => {
   const stmt = db.prepare(`
-    SELECT * FROM courses WHERE courseId IN (SELECT courseId FROM savedCourses) GROUP BY courseId
+    SELECT id, course, deliveryMethod, location FROM courses WHERE courseId IN (SELECT courseId FROM savedCourses) GROUP BY courseId
   `);
 
   return stmt.all();

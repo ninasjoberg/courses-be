@@ -8,7 +8,7 @@ export const addApplication = (db, courseId, userName, email) => {
 
 export const getApplications = (db) => {
   const stmt = db.prepare(`
-    SELECT * FROM courses WHERE courseId IN (SELECT courseId FROM applications) GROUP BY courseId
+    SELECT id, course, deliveryMethod, location FROM courses WHERE courseId IN (SELECT courseId FROM applications) GROUP BY courseId
   `);
 
   return stmt.all();
