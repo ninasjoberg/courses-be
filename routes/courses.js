@@ -3,8 +3,10 @@ import { db } from "../scripts/createDb.js";
 import {
   get,
   getBySearch,
-  addSaveSearch,
-  addSaveCourse,
+  addSavedSearch,
+  addSavedCourse,
+  getSavedCourses,
+  getSavedSearches,
 } from "../services/courseService.js";
 
 const router = express.Router();
@@ -30,9 +32,30 @@ router.get("/search", async (req, res) => {
   }
 });
 
-router.post("/saveSearch", async (req, res) => {
+router.post("/savedsearches", async (req, res) => {
+  console.log("params", req.body.searchParams);
   try {
-    const courses = await addSaveSearch(db, req.body.query);
+    const searchParams = await addSavedSearch(db, req.body.searchParams);
+    res.json(searchParams);
+  } catch (error) {
+    console.log("error from /search :", error);
+    res.status(400).send({ message: "bad request" });
+  }
+});
+
+router.get("/savedsearches", async (req, res) => {
+  try {
+    const savedSearches = await getSavedSearches(db);
+    res.json(savedSearches);
+  } catch (error) {
+    console.log("error from /search :", error);
+    res.status(400).send({ message: "bad request" });
+  }
+});
+
+router.post("/savedcourses", async (req, res) => {
+  try {
+    const courses = await addSavedCourse(db, req.body.courseId);
     res.json(courses);
   } catch (error) {
     console.log("error from /search :", error);
@@ -40,13 +63,13 @@ router.post("/saveSearch", async (req, res) => {
   }
 });
 
-router.post("/saveCourse", async (req, res) => {
+router.get("/savedcourses", async (req, res) => {
   try {
-    const courses = await addSaveCourse(db, req.body.courseId);
-    res.json(courses);
+    const savedCourses = await getSavedCourses(db);
+    res.json(savedCourses);
   } catch (error) {
-    console.log("error from /search :", error);
-    res.status(400).send({ message: "bad request" });
+    console.error("error from / :", error);
+    res.status(500).send({ message: "server error" });
   }
 });
 

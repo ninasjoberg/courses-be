@@ -36,18 +36,36 @@ export const getBySearch = (db, search) => {
   return stmt.all(params);
 };
 
-export const addSaveSearch = (db, query) => {
+export const addSavedSearch = (db, query) => {
   const stmt = db.prepare(`
     INSERT INTO savedSearches (query)
     VALUES (@query)
   `);
-  stmt.run({ query });
+  return stmt.run({ query: JSON.stringify(query) });
 };
 
-export const addSaveCourse = (db, courseId) => {
+export const getSavedSearches = (db) => {
+  const stmt = db.prepare(`
+    SELECT query FROM savedSearches
+  `);
+
+  return stmt.all();
+};
+
+export const addSavedCourse = (db, courseId) => {
   const stmt = db.prepare(`
     INSERT INTO savedCourses (courseId)
     VALUES (@courseId)
   `);
-  stmt.run({ courseId });
+  return stmt.run({ courseId });
 };
+
+export const getSavedCourses = (db) => {
+  const stmt = db.prepare(`
+    SELECT * FROM courses WHERE courseId IN (SELECT courseId FROM savedCourses) GROUP BY courseId
+  `);
+
+  return stmt.all();
+};
+
+export const getSavedSearch = (db) => {};
