@@ -11,10 +11,10 @@ import {
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
+router.get("/", async (req, res) => {
   try {
     const limit = parseInt(req.query.limit) || 10;
-    const courses = get(db, limit);
+    const courses = await get(db, limit);
     res.json(courses);
   } catch (error) {
     console.error("error from / :", error);
@@ -28,18 +28,23 @@ router.get("/search", async (req, res) => {
     res.json(courses);
   } catch (error) {
     console.log("error from /search :", error);
-    res.status(400).send({ message: "bad request" });
+    res.status(500).send({ message: "server error" });
   }
 });
 
 router.post("/savedsearches", async (req, res) => {
   console.log("params", req.body.searchParams);
   try {
-    const searchParams = await addSavedSearch(db, req.body.searchParams);
-    res.json(searchParams);
+    await addSavedSearch(db, req.body.searchParams);
+    res.status(201).send("created");
   } catch (error) {
-    console.log("error from /search :", error);
-    res.status(400).send({ message: "bad request" });
+    console.log("error from /savedsearches:", error);
+    if (error.code === "SQLITE_CONSTRAINT_UNIQUE") {
+      return res
+        .status(400)
+        .send({ message: "You have already saved this course" });
+    }
+    res.status(500).send({ message: "server error" });
   }
 });
 
@@ -48,18 +53,23 @@ router.get("/savedsearches", async (req, res) => {
     const savedSearches = await getSavedSearches(db);
     res.json(savedSearches);
   } catch (error) {
-    console.log("error from /search :", error);
-    res.status(400).send({ message: "bad request" });
+    console.log("error from /savedsearches :", error);
+    res.status(500).send({ message: "server error" });
   }
 });
 
 router.post("/savedcourses", async (req, res) => {
   try {
-    const courses = await addSavedCourse(db, req.body.courseId);
-    res.json(courses);
+    await addSavedCourse(db, req.body.courseId);
+    res.status(201).send("created");
   } catch (error) {
-    console.log("error from /search :", error);
-    res.status(400).send({ message: "bad request" });
+    console.log("error from /savedcourses :", error);
+    if (error.code === "SQLITE_CONSTRAINT_UNIQUE") {
+      return res
+        .status(400)
+        .send({ message: "You have already saved this course" });
+    }
+    res.status(500).send({ message: "server error" });
   }
 });
 
@@ -68,7 +78,23 @@ router.get("/savedcourses", async (req, res) => {
     const savedCourses = await getSavedCourses(db);
     res.json(savedCourses);
   } catch (error) {
-    console.error("error from / :", error);
+    console.error("error from /savedcourses :", error);
+    res.status(500).send({ message: "server error" });
+  }
+});
+
+router.post("/:courseid/apply", async (req, res) => {
+  try {
+    const { userName, email } = req.body;
+    await addApplication(db, req.params.courseid, userName, email);
+    res.status(201).send("created");
+  } catch (error) {
+    console.error("error from /:courseid/apply :", error);
+    if (error.code === "SQLITE_CONSTRAINT_UNIQUE") {
+      return res
+        .status(400)
+        .send({ message: "You have already applied for this course" });
+    }
     res.status(500).send({ message: "server error" });
   }
 });

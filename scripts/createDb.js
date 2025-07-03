@@ -13,16 +13,23 @@ export const db = new Database(path.join(__dirname, "../db/data.db"));
 db.exec(`
   CREATE TABLE IF NOT EXISTS savedSearches (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    query TEXT,
-    createdAt TEXT DEFAULT CURRENT_TIMESTAMP
+    query TEXT UNIQUE
   );
 `);
 
 db.exec(`
   CREATE TABLE IF NOT EXISTS savedCourses (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    courseId TEXT,
-    createdAt TEXT DEFAULT CURRENT_TIMESTAMP
+    courseId TEXT UNIQUE
+  );
+`);
+
+db.exec(`
+  CREATE TABLE IF NOT EXISTS applications (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    courseId TEXT UNIQUE,
+    userName TEXT,
+    email TEXT
   );
 `);
 

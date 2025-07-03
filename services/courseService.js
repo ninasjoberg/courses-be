@@ -1,36 +1,36 @@
-export const get = (db, limit = 1000) => {
+export const get = (db, limit = 10) => {
   const stmt = db.prepare(
     `SELECT id, courseId, institute, course, location, deliveryMethod, category FROM courses LIMIT ?`
   );
-  return stmt.all(limit); // returns all matching rows immediately
+  return stmt.all(limit);
 };
 
-export const getBySearch = (db, search) => {
+export const getBySearch = (
+  db,
+  { location, category, deliveryMethod, offset = 0 },
+  limit = 10
+) => {
   const conditions = [];
-  const params = {};
+  const params = { offset, limit };
 
-  if (search.location) {
+  if (location) {
     conditions.push("LOWER(location) LIKE LOWER(@location)");
-    params.location = `%${search.location}%`;
+    params.location = `%${location}%`;
   }
-  if (search.category) {
+  if (category) {
     conditions.push("LOWER(category) LIKE LOWER(@category)");
-    params.category = `%${search.category}%`;
+    params.category = `%${category}%`;
   }
-  if (search.institute) {
-    conditions.push("LOWER(institute) LIKE LOWER(@institute)");
-    params.institute = `%${search.institute}%`;
-  }
-  if (search.deliveryMethod) {
+  if (deliveryMethod) {
     conditions.push("LOWER(deliveryMethod) LIKE LOWER(@deliveryMethod)");
-    params.deliveryMethod = `%${search.deliveryMethod}%`;
+    params.deliveryMethod = `%${deliveryMethod}%`;
   }
 
-  let sql = "SELECT * FROM courses";
-  if (conditions.length) {
-    sql += " WHERE " + conditions.join(" AND ");
-  }
-  sql += " LIMIT 10";
+  const sql = `SELECT * FROM courses ${
+    conditions.length ? `WHERE ${conditions.join(" AND ")}` : ""
+  } LIMIT @limit OFFSET @offset;`;
+
+  console.log("!!!!!", sql);
 
   const stmt = db.prepare(sql);
   return stmt.all(params);
@@ -67,5 +67,3 @@ export const getSavedCourses = (db) => {
 
   return stmt.all();
 };
-
-export const getSavedSearch = (db) => {};
